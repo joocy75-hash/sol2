@@ -1,0 +1,509 @@
+{
+    "gameCustomTypeLists": [],
+    "gameLists": [
+        {
+            "gameNameEn": "15 Dragon Pearls: Hold and Win",
+            "gameID": "c1299ac40cd31435588f42f0f4503380",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/15_dragon_pearls.webp"
+        },
+        {
+            "gameNameEn": "3 African Drums",
+            "gameID": "18675fbfc8dfe19ba4f65b385565c419",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/3_african_drums.webp"
+        },
+        {
+            "gameNameEn": "3 Aztec Temples",
+            "gameID": "4e62a6d0de1240dc08515447d84e0fc2",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/3_aztec_temples.webp"
+        },
+        {
+            "gameNameEn": "3 China Pots",
+            "gameID": "564c91f73586b42eaaf3a71ff547cef8",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/3_china_pots.webp"
+        },
+        {
+            "gameNameEn": "3 Clover Pots",
+            "gameID": "82f0d2a319a4dd0661e324da00202393",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/3_clover_pots.webp"
+        },
+        {
+            "gameNameEn": "3 Clover Pots Extra",
+            "gameID": "6ac7bd11fd57d241105a6ae26dcd6799",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/3_clover_pots_extra.webp"
+        },
+        {
+            "gameNameEn": "3 Coin Volcanoes",
+            "gameID": "ecc0247d4a244446f3a9dcab7ccb0eec8",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/3_coin_volcanoes.webp"
+        },
+        {
+            "gameNameEn": "3 Coins",
+            "gameID": "694c7bdbb85df573c6328615c3fe18c2",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/3_coins.webp"
+        },
+        {
+            "gameNameEn": "3 Coins: Egypt",
+            "gameID": "a79ee32c95fadf13ac778c74e57861e8",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/3_coins_egypt.webp"
+        },
+        {
+            "gameNameEn": "3 Egypt Chests",
+            "gameID": "f26466bb371f22b662f7d59361742475",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/3_egypt_chests.webp"
+        },
+        {
+            "gameNameEn": "3 Hot Chillies",
+            "gameID": "08813d8bbdbfebb338600e34463f8c2c",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/3_hot_chillies.webp"
+        },
+        {
+            "gameNameEn": "3 Pots of Egypt",
+            "gameID": "a6d68a2c31c693fc0043cbeaa839fc4a",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/3_pots_of_egypt.webp"
+        },
+        {
+            "gameNameEn": "3 Super Hot Chillies",
+            "gameID": "41a7eca7597e7d9712d4b32e362dbd7c",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/3_super_hot_chillies.webp"
+        },
+        {
+            "gameNameEn": "777 Coins",
+            "gameID": "d4db811f178f0a50ee61582ac685a91f",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/777_coins.webp"
+        },
+        {
+            "gameNameEn": "Aztec Fire",
+            "gameID": "57270957335cbb7c61aba225973e69d8",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/aztec_fire.webp"
+        },
+        {
+            "gameNameEn": "Aztec Fire 2",
+            "gameID": "18b83f9efb39c7320e135d5d4075530e",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/aztec_fire_2.webp"
+        },
+        {
+            "gameNameEn": "Aztec Sun: Hold and Win",
+            "gameID": "ad41cfab1038f9f277481cbbc1256f04",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/aztec_sun.webp"
+        },
+        {
+            "gameNameEn": "Big Heist",
+            "gameID": "3b92195a5204642223ae6117d49bc01f",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/big_heist.webp"
+        },
+        {
+            "gameNameEn": "Black Wolf 2",
+            "gameID": "55bd2ad2e0f3b0d7f5be542dc1e5837f",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/black_wolf_2.webp"
+        },
+        {
+            "gameNameEn": "Book of Sun Multichance",
+            "gameID": "8aba9faf8fb2203cd70a4d3644274685",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/book_of_sun_multichance.webp"
+        },
+        {
+            "gameNameEn": "Boom! Boom! Gold!",
+            "gameID": "9fc8ea3f4167fc9d15dd7c672198b676",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/boom_gold.webp"
+        },
+        {
+            "gameNameEn": "China Festival",
+            "gameID": "1bb81eecce4c9d106440da086477f237",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/china_festival.webp"
+        },
+        {
+            "gameNameEn": "Coin Lamp",
+            "gameID": "2b2369ed25bb2e90756515afb176f297",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/coin_lamp.webp"
+        },
+        {
+            "gameNameEn": "Coin Up: Lightning",
+            "gameID": "d00b5e2d0e85471e70fb36a86f8bbfa6",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/coin_lightning.webp"
+        },
+        {
+            "gameNameEn": "Coin Up",
+            "gameID": "c6dd32759312a23210809ebbb3e36a6d",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/coin_up.webp"
+        },
+        {
+            "gameNameEn": "Coin Volcano",
+            "gameID": "f58f7074ac4e8a98c682117d3b134703",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/coin_volcano.webp"
+        },
+        {
+            "gameNameEn": "Crystal Scarabs",
+            "gameID": "97ae71e0444af7f8dc02f7c3ef59fb80",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/crystal_scarabs.webp"
+        },
+        {
+            "gameNameEn": "Dancing Joker",
+            "gameID": "ba373b0713bcd5eb5cb887a8cd858653",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/dancing_joker.webp"
+        },
+        {
+            "gameNameEn": "Dragon Pearls: Hold and Win",
+            "gameID": "f6ade98f61f54a043573d59fbaccc409",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/dragon_pearls.webp"
+        },
+        {
+            "gameNameEn": "Dragon Wealth",
+            "gameID": "2f77dd73d1bbf1ac4b708d790f988922",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/dragon_wealth.webp"
+        },
+        {
+            "gameNameEn": "Egypt Fire",
+            "gameID": "2186d3c693d9b44e8abf7a4e37e3c166",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/egypt_fire.webp"
+        },
+        {
+            "gameNameEn": "Fishin Bear",
+            "gameID": "142173860d701d82b06b7bee59c7c5cc",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/fishing_bear.webp"
+        },
+        {
+            "gameNameEn": "Fortune Globe",
+            "gameID": "3711061fb8e17978ba90b5c24fd45e55",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/fortune_globe.webp"
+        },
+        {
+            "gameNameEn": "Gold Express",
+            "gameID": "506d4b25783a410f2183273c2d55f770",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/gold_express.webp"
+        },
+        {
+            "gameNameEn": "Gold Nuggets",
+            "gameId2": "1b972417edf19b66fbe65c651c8eda6a",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/gold_nuggets.webp"
+        },
+        {
+            "gameNameEn": "Golden Teapot",
+            "gameID": "c00218991a1f7a28c9271327d060ba12",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/golden_teapot.webp"
+        },
+        {
+            "gameNameEn": "Grab more Gold",
+            "gameID": "7c4ef81cd579e78af503c152e052bddc",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/grab_more_gold.webp"
+        },
+        {
+            "gameNameEn": "Grab the Gold",
+            "gameID": "fc21e5f8dcd1d99c7b61af3f8202935d",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/grab_the_gold.webp"
+        },
+        {
+            "gameNameEn": "Green Chilli",
+            "gameID": "86ccb8cc36d2ab661f260834ec8ed516",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/green_chilli.webp"
+        },
+        {
+            "gameNameEn": "Green Chilli 2",
+            "gameID": "41436e61689b11f079caac2b64f53439",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/green_chilli_2.webp"
+        },
+        {
+            "gameNameEn": "Hit more Gold!",
+            "gameID": "3e99c1605f58b99d2db5ea6b32492c05",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/hitmoregold.webp"
+        },
+        {
+            "gameNameEn": "Hit the Gold!",
+            "gameID": "264f7c490463e5756f95cf940ad23bce",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/hit_the_gold.webp"
+        },
+        {
+            "gameNameEn": "Lady Fortune",
+            "gameID": "55d5824cf10a072ab6414e585feac3da",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/lady_fortune.webp"
+        },
+        {
+            "gameNameEn": "Lion Coins",
+            "gameID": "7198dcb6a16076d14c6733ec997c091d",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/lion_coins.webp"
+        },
+        {
+            "gameNameEn": "Little Farm",
+            "gameID": "75ca516101ad5b5b81c4bb88610b812e",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/little_farm.webp"
+        },
+        {
+            "gameNameEn": "Lucky Penny",
+            "gameID": "06f6c88909481f077199867b29e31186",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/lucky_penny.webp"
+        },
+        {
+            "gameNameEn": "Magic Apple",
+            "gameID": "b1d4273bd5b935a9989fc5fee1dc1a38",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/magic_apple.webp"
+        },
+        {
+            "gameNameEn": "Magic Apple 2",
+            "gameID": "7809ea44d36e6b54d67003e17cc2b02c",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/magic_apple_2.webp"
+        },
+        {
+            "gameNameEn": "Maya Sun",
+            "gameID": "922719be5fb5eca473066f22e185b20e",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/maya_sun.webp"
+        },
+        {
+            "gameNameEn": "Moon Sisters",
+            "gameID": "39d7ee6a721a9c05567db546d6a4f9f5",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/moon_sisters.webp"
+        },
+        {
+            "gameNameEn": "More Magic Apple",
+            "gameID": "bfaf761ed3ff87aa025c72bef861dee0",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/more_magic_apple.webp"
+        },
+        {
+            "gameNameEn": "Olympian Gods",
+            "gameID": "fc61b954c71ec608a5f4c0c1e581c1c5",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/olympian_gods.webp"
+        },
+        {
+            "gameNameEn": "Pearl Diver 2 Treasure Chest",
+            "gameID": "74f34f5ce550e73b3f316c3d38e15120",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/pearl_diver_2.webp"
+        },
+        {
+            "gameNameEn": "Power Sun",
+            "gameID": "e54e6799ba3ffc6a74c2a6082cec0760",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/power_sun.webp"
+        },
+        {
+            "gameNameEn": "Queen of the Sun",
+            "gameID": "0c1e638a27ad755dbbb893cae1c9b8a7",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/queen_of_the_sun.webp"
+        },
+        {
+            "gameNameEn": "Rio Gems",
+            "gameID": "a48bc000d5bea5a4ded790fef77b66dc",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/riogems.webp"
+        },
+        {
+            "gameNameEn": "Rocket Wins",
+            "gameID": "06e3a86b239334d0939f4e75c4576f1a",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/rocket_wins.webp"
+        },
+        {
+            "gameNameEn": "Scarab Boost",
+            "gameID": "0132a9330ae432c4a97827dbc3f44f46",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/scarab_boost.webp"
+        },
+        {
+            "gameNameEn": "Scarab Riches",
+            "gameID": "71fae935f6c6b441a16c1f1adedddfa9",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/scarab_riches.webp"
+        },
+        {
+            "gameNameEn": "Scarab Temple",
+            "gameID": "28acf3916d6185c3fed550ccf7b47439",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/scarab_temple.webp"
+        },
+        {
+            "gameNameEn": "Sky Pearls",
+            "gameID": "e9bb6ce89da2f5904dc1856b55e76c55",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/sky_pearls.webp"
+        },
+        {
+            "gameNameEn": "Sun of Egypt",
+            "gameID": "4c31923b099aa6414cb5e185e7d667ad",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/sun_of_egypt.webp"
+        },
+        {
+            "gameNameEn": "Sun of Egypt 2",
+            "gameID": "25dbf864880697f029587ec163ef4f55",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/sun_of_egypt_2.webp"
+        },
+        {
+            "gameNameEn": "Sun of Egypt 3",
+            "gameID": "20c0e9950761c62b81ef1666a51f02d2",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/sun_of_egypt_3.webp"
+        },
+        {
+            "gameNameEn": "Sun of Egypt 4",
+            "gameID": "c68b984f9f2437539b1b72a20513bc36",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/sun_of_egypt_4.webp"
+        },
+        {
+            "gameNameEn": "Sunlight Princess",
+            "gameID": "ea065d457d321ab3bf80a73d3df464b0",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/sunlightprincess.webp"
+        },
+        {
+            "gameNameEn": "Super Hot Chilli",
+            "gameID": "7587dec3c60c9b3d26aa0af60725cd38",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/super_hot_chilli.webp"
+        },
+        {
+            "gameNameEn": "Super Sticky Piggy",
+            "gameID": "938503ed31ea808542271dfd31374b46",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/super_sticky_piggy.webp"
+        },
+        {
+            "gameNameEn": "Tiger Gems",
+            "gameID": "6e92bdacfa0284a89181a86eeb24388b",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/tiger_gems.webp"
+        },
+        {
+            "gameNameEn": "Tiger Jungle",
+            "gameID": "d9586406d73fef095420e061c77fe7c2",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/tiger_jungle.webp"
+        },
+        {
+            "gameNameEn": "Wolf Night",
+            "gameID": "44b34379f35deb4fed696dfd8b4f31e6",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/wolf_night.webp"
+        },
+        {
+            "gameNameEn": "Wolf Saga",
+            "gameID": "5410c83f285a6c6643895f40e9bb0f6e",
+            "customGameType": 0,
+            "vendorCode": 19,
+            "img": "https://dripcasino232.com/upload/3oaks/wolf_saga.webp"
+        }
+    ]
+}

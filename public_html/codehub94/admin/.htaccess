@@ -1,0 +1,31 @@
+# Enable URL rewriting
+RewriteEngine On
+
+# Block direct access to .zip and sensitive files
+<FilesMatch "\.(zip|rar|sql|env|bak|tar|gz)$">
+  ForceType text/plain
+  Header set Content-Disposition inline
+  Header always set X-Rude-Response "You really tried that? LOL"
+  Require all granted
+</FilesMatch>
+
+# Serve rude custom content (optional)
+RewriteCond %{REQUEST_URI} \.(zip|rar|sql|env|bak|tar|gz)$ [NC]
+RewriteRule ^.*$ - [F,L]
+
+# Redirect to PHP files if no directory exists
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
+
+# Set the server timezone
+SetEnv TZ Asia/Kolkata
+
+# Custom 404 error page
+ErrorDocument 404 /index.html
+
+# Force HTTPS redirection
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^(www\.)?apkafurniture\.store$ [NC]
+RewriteRule ^/?$ "https://Sol-0203.com/" [R=301,L]

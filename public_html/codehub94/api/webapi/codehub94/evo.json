@@ -1,0 +1,1112 @@
+{
+    "gameCustomTypeLists": [],
+    "gameLists":[
+    
+    {
+        "gameNameEn": "Emperor Speed Baccarat B",
+        "gameID": "7b44393101abad7ac31e21fc1bdb3d56",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1701640689/rajabets/game/4a2cac5e-ecbf-4eab-9b49-ee5bf8214c1a.jpg"
+    },
+    {
+        "gameNameEn": "Fan Tan",
+        "gameID": "5cb6aa4e2ce1c775c568561401ffdfca",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059531/rajabets/game/ba8437a6-53d1-4f32-b37e-5871d6ce2d17.jpg"
+    },
+    {
+        "gameNameEn": "Speed Roulette",
+        "gameID": "b4af506243cafae52908e8fa266f8ff6",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1711551937/rajabets/game/89d58f68-3461-472d-826f-1e864b8d55e3.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 12",
+        "gameID": "87a7f4550407f5ed73c3353a54a11187",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1633010898/rajabets/game/fe29598e-a533-474a-84b5-33819b4b436c.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP R",
+        "gameID": "20e34228a5086c5a4198a3c967f99301",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059070/rajabets/game/f1004176-304b-4b83-9fc5-f7a0694c7ec5.jpg"
+    },
+    {
+        "gameNameEn": "Speed VIP Blackjack K",
+        "gameID": "553ef75ae9c5c6be76f50e2187685231",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059469/rajabets/game/24f6b836-5e30-4894-9ef3-2815ea2a671d.jpg"
+    },
+    {
+        "gameNameEn": "Speed VIP Blackjack J",
+        "gameID": "8a14300bc05eba74aab16e4946e29edf",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1697027906/rajabets/game/43de623a-eb9d-4cab-a4a8-4ef9c57f816e.jpg"
+    },
+    {
+        "gameNameEn": "Speed Blackjack E",
+        "gameID": "15dddd63199059f97f21c456a4c74da3",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1640618414/rajabets/game/7b42d4f1-925c-4176-8313-2c8f3f892b45.jpg"
+    },
+    {
+        "gameNameEn": "Infinite Blackjack",
+        "gameID": "58d7089aa20bce7f70e0e2ce81e888f4",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630058894/rajabets/game/64d12778-10d4-42ee-a6a3-46e52e0aa23a.jpg"
+    },
+    {
+        "gameNameEn": "Craps",
+        "gameID": "689dd8e8f17dae910dba9fdd4990d41e",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1712054866/rajabets/game/12237892-df57-4568-815e-eb18124429cb.jpg"
+    },
+    {
+        "gameNameEn": "Salon Privé Baccarat G",
+        "gameID": "7d35a160644fdff741e92b1b96285fd5",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630058804/rajabets/game/acd004d3-1340-4a1b-a995-508653b4379c.jpg"
+    },
+    {
+        "gameNameEn": "Baccarat Squeeze",
+        "gameID": "404f0952ac7e25d242f2079dfe390983",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1693661227/rajabets/game/d3e47024-cfb8-4998-9280-4e9bb169f55b.jpg"
+    },
+    {
+        "gameNameEn": "Speed Baccarat 3",
+        "gameID": "e7931b2e0d410ddc4f88520e9ad87c4b",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1757605359/rajabets/game/8e7e4c9f-9326-4eba-9b43-0331952c147c.jpg"
+    },
+    {
+        "gameNameEn": "Speed Baccarat F",
+        "gameID": "b332c47c868946659d7de97f4157bdb3",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1701640793/rajabets/game/5858298e-5716-420a-9a25-737b8d925fa4.jpg"
+    },
+    {
+        "gameNameEn": "Emperor Speed Baccarat A",
+        "gameID": "68fa4cdc74cd23b043db2caa25f1b42c",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1701640531/rajabets/game/64a37a8e-6101-4b78-a8a1-dc80467fd695.jpg"
+    },
+    {
+        "gameNameEn": "Super Sic Bo",
+        "gameID": "e3951a5bf624e822a22cba1cbe619df5",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1634297785/rajabets/game/1f939924-46cb-48e6-8279-0d54384575b6.jpg"
+    },
+    {
+        "gameNameEn": "First Person Top Card",
+        "gameID": "64985010e87aab51c7fb18076d34062d",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1733655076/rajabets/game/ff06a339-38ee-4c0d-be68-4c12a2b32f7f.jpg"
+    },
+    {
+        "gameNameEn": "First Person Dream Catcher",
+        "gameID": "7ee0da50996278d7fe5136f86f368fa5",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630072603/rajabets/game/014dea61-925a-4a65-a0d9-df85e1cf5ad6.jpg"
+    },
+    {
+        "gameNameEn": "First Person Dragon Tiger",
+        "gameID": "4b4c45709dfd8188d7d6d12fae15bd42",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059615/rajabets/game/208282a6-57cf-44ac-bdde-5b21a205a696.jpg"
+    },
+    {
+        "gameNameEn": "First Person Mega Ball",
+        "gameID": "3150b1cd8fbbddd94d36f20fab504653",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1721742188/rajabets/game/aafcc7ac-d520-4a1f-9500-c576273ca3a7.jpg"
+    },
+    {
+        "gameNameEn": "First Person Lightning Baccarat",
+        "gameID": "fec1b730e804bf14bd471a1e9b82bf44",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1706714078/rajabets/game/1c567de3-46d9-4f91-9a45-3db774af2ab9.jpg"
+    },
+    {
+        "gameNameEn": "First Person Craps",
+        "gameID": "823245918aa2afd108a5912e363c083c",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1701640666/rajabets/game/e5e207cc-a972-4336-9c67-fcf222123027.jpg"
+    },
+    {
+        "gameNameEn": "First Person Baccarat",
+        "gameID": "e18dfa4a5dd4a0f2d8b45337bd6abb9d",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059677/rajabets/game/08e9d24e-930a-4815-be1b-d64cc0d325dd.jpg"
+    },
+    {
+        "gameNameEn": "First Person Golden Wealth Baccarat",
+        "gameID": "88e49e3fb9a9883f01f167d03f5efdcb",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059433/rajabets/game/84c32624-6d7c-4312-916b-10fdda2fb161.jpg"
+    },
+    {
+        "gameNameEn": "First Person American Roulette",
+        "gameID": "88b2d98462fbc45d6d31e95083e183df",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630056541/rajabets/game/5ac29117-c14d-47e2-9758-dc359c1bdf32.jpg"
+    },
+    {
+        "gameNameEn": "First Person Deal or No Deal",
+        "gameID": "c715eb06391fabe5275d0b56440f49f3",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1708438535/rajabets/game/16522521-35ac-4733-aa98-5c3b0284a5c3.jpg"
+    },
+    {
+        "gameNameEn": "First Person Blackjack",
+        "gameID": "4ac0e874a4d5fc55bcdba5302b43bc96",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1633010947/rajabets/game/6a69e888-3e8f-4d22-a6e6-d011862f3129.jpg"
+    },
+    {
+        "gameNameEn": "First Person Lightning Blackjack",
+        "gameID": "74914b065a9e6b9c7cb8a0e4b17294ed",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630058921/rajabets/game/d7f62f06-f0bc-4829-be68-d011f16d68f9.jpg"
+    },
+    {
+        "gameNameEn": "First Person Roulette",
+        "gameID": "a82670530f49a6b3445dc1a592a2eb9e",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059958/rajabets/game/6efbdc42-1137-4983-bc8e-acf8c6827175.jpg"
+    },
+    {
+        "gameNameEn": "Dream Catcher",
+        "gameID": "7f50a6fbfcd9257299303b5757d43525",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630056388/rajabets/game/91d5a393-8958-499a-8736-e1833e9bfd6f.jpg"
+    },
+    {
+        "gameNameEn": "Football Studio Dice",
+        "gameID": "1909b4e3380dc37654f8e3997e63ec1b",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1723115359/rajabets/game/7b6e581b-d347-48cb-bf32-4d28612dbc50.jpg"
+    },
+    {
+        "gameNameEn": "Dead or Alive: Saloon",
+        "gameID": "eda1a2c5edb8370f8df58dcf8e1381b9",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630057426/rajabets/game/7526cbbf-5703-4129-abcc-a514b6030ee1.jpg"
+    },
+    {
+        "gameNameEn": "First Person Lightning Roulette",
+        "gameID": "f5ee6fce16d369d1a656f3b227fc7236",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630058746/rajabets/game/815cce6a-20e4-4008-8bca-3010ddaf7694.jpg"
+    },
+    {
+        "gameNameEn": "Football Studio",
+        "gameID": "392e13e38b3cec5ad259254a206d343a",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059707/rajabets/game/bad5894d-ef5d-4314-ae91-a593ca7b75e5.jpg"
+    },
+    {
+        "gameNameEn": "Deal or No Deal",
+        "gameID": "bee6be84ab995f2040f4e575c2cc3910",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059383/rajabets/game/ffcf2632-8fdd-4c2e-88b6-92dcb1d688ee.jpg"
+    },
+    {
+        "gameNameEn": "Cash or Crash",
+        "gameID": "b53a604877024ef2eab9946898e65d6b",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1738940878/rajabets/game/d7a590db-5cd2-4f2a-8712-f2a8d4ef3b51.jpg"
+    },
+    {
+        "gameNameEn": "Monopoly Big Baller",
+        "gameID": "067806e82742ca16bfffe70f76215647",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059599/rajabets/game/dedd3ebf-edc8-44a3-a605-9ed5e9773a9e.jpg"
+    },
+    {
+        "gameNameEn": "Mega Ball",
+        "gameID": "3955853fc6a0b53f7f9b9cff0be19cb8",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1632240339/rajabets/game/fd2a9b89-9b78-4153-ab23-43d3862652ff.jpg"
+    },
+    {
+        "gameNameEn": "Monopoly Live",
+        "gameID": "d496ac5fd91702331133e44b6bd12b26",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1692529676/rajabets/game/0fdf364a-318c-44ad-b6e9-15f38ae55437.jpg"
+    },
+    {
+        "gameNameEn": "Crazy Time A",
+        "gameID": "814aa56348ac4165588f2a3e251f8732",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630656994/rajabets/game/e0f1a91d-810d-4c45-a27e-5f966b6f6e49.jpg"
+    },
+    {
+        "gameNameEn": "Teen Patti",
+        "gameID": "0617a82334f4f1766cf282ce906e1df7",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1668612266/rajabets/game/973b978c-1b04-4fb5-9492-b8734a8054fa.jpg"
+    },
+    {
+        "gameNameEn": "Super Andar Bahar",
+        "gameID": "f7b98e899461bdd49f92afc36b4c0db5",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059073/rajabets/game/0586099a-6a2a-4cc9-be00-3f19b98e527d.jpg"
+    },
+    {
+        "gameNameEn": "Crazy Time",
+        "gameID": "917c0c51d248c33eb058e3210a2e7371",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1706714210/rajabets/game/2710a17a-6f58-4213-b8c6-66dcc26ce77e.jpg"
+    },
+    {
+        "gameNameEn": "Side Bet City",
+        "gameID": "ccf9a69b0ff627e53fdecfcb3a379ef2",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630056630/rajabets/game/d1b81148-d3af-41aa-bad9-a9af5b3b149e.jpg"
+    },
+    {
+        "gameNameEn": "Texas Hold'em Bonus Poker",
+        "gameID": "0d743830cca897a7c4c9187bc7f9b812",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630056458/rajabets/game/0467c5d6-53b1-4f82-91c4-b67938477ec0.jpg"
+    },
+    {
+        "gameNameEn": "Caribbean Stud Poker",
+        "gameID": "724eebd5cbe7555b01ed60279cb59e5a",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1709130103/rajabets/game/d30cc19d-89a6-4e1f-acb2-9be65a0bd48e.jpg"
+    },
+    {
+        "gameNameEn": "Extreme Texas Hold'em",
+        "gameID": "fc4e71748bc1a8a7abfc4c1e2f63aa3b",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630058817/rajabets/game/f5ef45c3-e016-4ba4-90fe-88cf8c26826a.jpg"
+    },
+    {
+        "gameNameEn": "Triple Card Poker",
+        "gameID": "b7c3b022f1c2b768524523d855a58d89",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1701640920/rajabets/game/662dd1a3-f7ed-486e-a6f9-e8efdb407be0.jpg"
+    },
+    {
+        "gameNameEn": "Salon Privé Roulette",
+        "gameID": "105735cbbaca3b69176c710ebb2c751d",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630075483/rajabets/game/94a49570-1ae6-4ffd-a2d8-22e09f878cc9.jpg"
+    },
+    {
+        "gameNameEn": "2 Hand Casino Hold'em",
+        "gameID": "97dcc429fe7142159aab82b918780f14",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1701697392/rajabets/game/06e06026-c2ea-4716-a61a-577ff3105a9c.jpg"
+    },
+    {
+        "gameNameEn": "Casino Hold'em",
+        "gameID": "8cb4d1c55915742a45f59f2adbb97e24",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630060095/rajabets/game/75539479-c43f-4f92-8e35-0a405dadedd9.jpg"
+    },
+    {
+        "gameNameEn": "Dragonara Roulette",
+        "gameID": "5c558d5217948dedcccd2592705a8b2f",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630056205/rajabets/game/ca312c39-b8b9-4215-b190-41f4d024f416.jpg"
+    },
+    {
+        "gameNameEn": "Auto-Roulette VIP",
+        "gameID": "367c395a50d4ef9edda332e17094670b",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630055603/rajabets/game/fb8df037-e4b6-49bb-98cd-9782ac7c6fd3.jpg"
+    },
+    {
+        "gameNameEn": "Auto-Roulette La Partage",
+        "gameID": "56fbfbaa2183a0389eed13255b8b9b52",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630056067/rajabets/game/85694252-8af9-447a-b7c6-802645a45c02.jpg"
+    },
+    {
+        "gameNameEn": "Speed Auto Roulette",
+        "gameID": "1ffeecc77f75d0485e83036269fd9401",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630057355/rajabets/game/7974bc94-0f09-48a7-bfe7-a156803fac52.jpg"
+    },
+    {
+        "gameNameEn": "Double Ball Roulette",
+        "gameID": "fae08e8e222f162b27a2d5c4329d1044",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059346/rajabets/game/721203a1-6939-4d76-acbd-f6e4193dde56.jpg"
+    },
+    {
+        "gameNameEn": "American Roulette",
+        "gameID": "0afb35f8abd269ca0c0c65a49d5145db",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1757063915/rajabets/game/3eb4d12f-6531-45d0-9007-2419d0db65ff.jpg"
+    },
+    {
+        "gameNameEn": "VIP Roulette",
+        "gameID": "e8f217c3d554285933cb67072c897fac",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1693661392/rajabets/game/02408e06-2c2c-4a5c-8025-ddeb8bad2dee.jpg"
+    },
+    {
+        "gameNameEn": "Instant Roulette",
+        "gameID": "ec65c22981a707736871eecfca8e5e25",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1642592417/rajabets/game/7a8078b0-37ec-45c6-8bca-10002ee59fbd.jpg"
+    },
+    {
+        "gameNameEn": "Auto-Roulette",
+        "gameID": "ed9e15ea8a2cbb9e7ad2604819764d43",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630072274/rajabets/game/57156287-0dc7-4be2-ac3b-6af2fe72fc69.jpg"
+    },
+    {
+        "gameNameEn": "Immersive Roulette",
+        "gameID": "3b43390eebe1f1a84b15f1251a253b24",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630058829/rajabets/game/1eb3107f-e8fe-4ccd-a286-c5f70972cfe9.jpg"
+    },
+    {
+        "gameNameEn": "Emperor Roulette",
+        "gameID": "53b7cbb34adc1279d0df4c0942af9393",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630072481/rajabets/game/1b331299-791a-40a4-a194-14f01df0d922.jpg"
+    },
+    {
+        "gameNameEn": "XXXtreme Lightning Roulette",
+        "gameID": "394fe6a2cde24bc487767236cc6eccd6",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059663/rajabets/game/8fde7963-3f93-45d8-9d0a-2486ed7301b8.jpg"
+    },
+    {
+        "gameNameEn": "Roulette",
+        "gameID": "c9020da3ac9119910b7146416d5a9850",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1698256582/rajabets/game/7d24036c-c023-4778-adb7-a9a84970e9d4.jpg"
+    },
+    {
+        "gameNameEn": "Salon Privé Blackjack G",
+        "gameID": "cf2ee43e0200d8fe0564628d5a56bd6f",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1693661502/rajabets/game/10de6a87-ae14-4e8a-a841-d98e9b36f764.jpg"
+    },
+    {
+        "gameNameEn": "Lightning Roulette",
+        "gameID": "4a858d6b74c05260d3ea2762838798c7",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1721913048/rajabets/game/77866885-7a37-4c2f-873f-31befc6f2932.jpg"
+    },
+    {
+        "gameNameEn": "Salon Privé Blackjack I",
+        "gameID": "d9b7ea7819d2d7abee3197bf2b1281c7",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1712054959/rajabets/game/7dbab8b1-374f-48ff-8a77-7a6074af8388.jpg"
+    },
+    {
+        "gameNameEn": "Salon Privé Blackjack J",
+        "gameID": "cae32c1011d6e41ab7d6948f1696ab1c",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1738940837/rajabets/game/dcfc9e93-5a4d-4f6d-8236-ae01d9c1a6c7.jpg"
+    },
+    {
+        "gameNameEn": "Salon Privé Blackjack H",
+        "gameID": "db69d21bbd5bc9d37b38bbfbfa3169fc",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059693/rajabets/game/80fb7daa-09b4-4d49-9883-c99ad3b8e3ea.jpg"
+    },
+    {
+        "gameNameEn": "Salon Privé Blackjack E",
+        "gameID": "88094da66b69066587ab29163d239142",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630056753/rajabets/game/ad92267c-e294-40aa-9775-894f900f6d03.jpg"
+    },
+    {
+        "gameNameEn": "Salon Privé Blackjack F",
+        "gameID": "9aef9d09e355adc2f1bb3c4179d28385",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059565/rajabets/game/886606f7-57b8-43c6-86de-60747389cde4.jpg"
+    },
+    {
+        "gameNameEn": "Salon Privé Blackjack C",
+        "gameID": "2e8a0e70afbf41baf8200fbdf90fb6ec",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630056435/rajabets/game/b13e4f1d-fa83-4511-98c1-6e02b00fb31f.jpg"
+    },
+    {
+        "gameNameEn": "Salon Privé Blackjack B",
+        "gameID": "4c4ee10f6c080904bc2e70f66d6185d4",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1658763847/rajabets/game/baf0865e-e2a3-45f2-9bfe-4bcafc7c0f27.jpg"
+    },
+    {
+        "gameNameEn": "Salon Privé Blackjack D",
+        "gameID": "9e78f6d00dbebadc3efe5a52af3a0c83",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630057960/rajabets/game/45abb3c0-37b9-48ac-8692-2299b3f5c85f.jpg"
+    },
+    {
+        "gameNameEn": "Salon Privé Blackjack A",
+        "gameID": "0b8610191202673d86d53d45f4f05804",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1640618672/rajabets/game/6c5e67be-e0c3-4a40-b9e5-754ab8c7e4cf.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack Diamond VIP",
+        "gameID": "7d4e80750fdbd046e210dc8e1d1a0c21",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630057088/rajabets/game/f3bf7635-390d-4065-b4ba-391d11b78b8d.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack Fortune VIP",
+        "gameID": "06e7ecf8debac2b86e8b38342de30a7a",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059755/rajabets/game/2b660310-d6b5-4d84-a73b-9442e2b34203.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack Grand VIP",
+        "gameID": "79efa086e10bbd8543b6e03e7a491351",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1701640492/rajabets/game/3b45ecb7-ff87-4ec1-bc58-76c06b4f674f.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack Platinum VIP",
+        "gameID": "c2bd2aafaa4dbaff9df0cd0b53fc6056",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1658763752/rajabets/game/1c345694-9151-4f34-a481-7c02ca6fbe5d.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP Gamma",
+        "gameID": "9f71de77938927179599cd645a5688c5",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1738940857/rajabets/game/6a835a87-cc48-4388-b5e1-19c42696d837.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP Alpha",
+        "gameID": "a6117241477a0b712edc856274691f9b",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1696419058/rajabets/game/13684367-6007-49cb-9c7f-99310681d3ff.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 27",
+        "gameID": "74f9dadea990e593f531953b1feaac7b",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1652960833/rajabets/game/d1f80d93-af0b-4d37-9e52-874946aa2765.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP Beta",
+        "gameID": "3a3bb51ef96c4795ac20c935ca68443b",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630058923/rajabets/game/76cd58a3-4370-4635-86dc-e43489df9d0c.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 26",
+        "gameID": "84c4ac47b33cb83dbdfbd56af4e658ad",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1687096852/rajabets/game/ef83e0fe-b1c5-4fe2-ad78-056702272c8d.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 21",
+        "gameID": "fcb1de01fe2c14217bfabd92976c7a05",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630055630/rajabets/game/c50906c5-990c-4c0e-a5c3-ee0f072267f8.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 25",
+        "gameID": "cc61ff297d5beef775880c9ffcccf63e",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1701640843/rajabets/game/dd8ff1ff-5995-4b9e-81af-037d50465b61.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 20",
+        "gameID": "a9d74415dfdde9ca16087d260c63fd68",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1709130137/rajabets/game/f5b9ced0-5e2c-431f-a99c-b5b5d00a7080.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 19",
+        "gameID": "31915e590bc4f5904681c9ed3fec7e91",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1692198094/rajabets/game/45ea1de0-378a-4ca6-be8f-01c1f5da623a.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 22",
+        "gameID": "ba4f73d5e19cb97db65f0766cd785434",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630056516/rajabets/game/029e4f2e-db0c-4ddb-862d-2752b533fe8f.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 17",
+        "gameID": "994a2681526c98fec2b9a2d63a642faa",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1706714030/rajabets/game/e65bca36-5f6c-4f83-9cc4-054cc744f45c.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 18",
+        "gameID": "ebdf09c0f6d79eed79b1027afc9d7df7",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1640618438/rajabets/game/54757ef7-5c6e-4537-8509-448f4ca23b91.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 16",
+        "gameID": "295743c7d72fd2eb61ca06749bb25a44",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1656078485/rajabets/game/f640d8c1-25b4-4373-9c27-32b411dafb5a.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 15",
+        "gameID": "e200f3434cd89322594336ee0f90afd0",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630056042/rajabets/game/2538d638-ca54-4cbc-8647-265bf835c084.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 14",
+        "gameID": "1d5d1c1c3d9c76bd7f4c58b9239c373a",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630057522/rajabets/game/27eba9f8-2ac4-43a7-b4f6-cbe6fa96f14b.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 13",
+        "gameID": "ad6b96a22d790052e3f899b3ece69c03",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630056485/rajabets/game/fb4a03d8-3251-4140-a323-93eacb86383b.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 11",
+        "gameID": "1329b0405db81b9964d6dd6eb0a514c9",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059337/rajabets/game/0845e52e-fdaf-4dc9-aa31-a841392278bf.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 10",
+        "gameID": "323f4086833fda7bb471f10e18a28364",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1648468654/rajabets/game/8dd2ab8c-8d4f-449f-afa7-2c0598d322cd.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 9",
+        "gameID": "54806d16c3eac96d4bea63ccfc0c674c",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630057330/rajabets/game/317516d3-6e9f-4cdf-bca3-dd56929eac1b.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 5",
+        "gameID": "f3d684a1b2fb22ac35c67e296df4db31",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1662133456/rajabets/game/7be40323-5f9d-4cf4-9752-d259ec878953.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 8",
+        "gameID": "ecffee81bd446ea53e4836e497f9e803",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1633010923/rajabets/game/6fa8a49e-e0df-4ab0-916f-da95209927ce.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 6",
+        "gameID": "4a33673ccc580aea8ae80ffa03c12ba7",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1691403433/rajabets/game/e0b249d8-12cb-4484-9b68-040afc59e7c6.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 7",
+        "gameID": "3d3f89247b5ec9e98e76ef2b22da2532",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630056573/rajabets/game/99611455-3d33-4c9e-83a0-68d4326ae966.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 4",
+        "gameID": "aed251dded03e8a1e665e52cdc4b6e80",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059188/rajabets/game/84cab8f1-51d0-4116-b2c8-25c97b3d09d4.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP X",
+        "gameID": "195f9f3cb289ab0c8e281317692590ba",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1674719656/rajabets/game/03f64f61-f4bd-41d3-9529-7e3222e39dd2.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 3",
+        "gameID": "f8e17bc0ad780b65f684558001ee2e64",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059229/rajabets/game/79cf488e-63ed-45b6-a4ac-ddd33e54733c.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 2",
+        "gameID": "7530ac3d1140882df7e883641237bb42",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1706714181/rajabets/game/5f945b1e-5cef-4991-b8ea-0ced8f588626.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP Z",
+        "gameID": "54b14b8af2eab62dad3053c09ff7508d",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1658764057/rajabets/game/142a684a-ab9f-4645-8e6b-50ddb1574ff8.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP 1",
+        "gameID": "9f509cdc3cdce669368977eda1588011",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630055538/rajabets/game/be11f608-276b-4317-a426-c4c421c1f0ec.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP V",
+        "gameID": "c69e64c185d94548fda619a867e1f031",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059098/rajabets/game/e1ee2d02-59ea-4f67-a3ec-780b6731eda8.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP T",
+        "gameID": "78beceac05fb03bb597646ee2a85cb1e",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1668870161/rajabets/game/e0d1ccd3-e9fb-4aac-9cac-ca6a745e5756.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP U",
+        "gameID": "921477a239b298fdd623e29c8f982274",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630057608/rajabets/game/1e8b216c-66ad-45f5-afaa-80d7ccbcad23.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP S",
+        "gameID": "a422edff8144adb81cd3e5d0236bb52b",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1701640580/rajabets/game/03faaebf-03d6-4b70-b15a-1c7d68fc2099.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP P",
+        "gameID": "5a04abf1c8f61ff36beaa840b38fd720",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1697110897/rajabets/game/da250513-dba6-426e-96ab-04022dd87347.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP N",
+        "gameID": "8cadf51f3bab6ca1d1351e39920f0cd0",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1642592490/rajabets/game/34f6f07e-a0f6-478a-9732-fa355ee9a149.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP Q",
+        "gameID": "694ea4e8c2bc49bb69c0c113a29e5c18",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630072255/rajabets/game/8d1a4edc-1b2b-4beb-9c03-7eec897b42e0.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP M",
+        "gameID": "bee49a234fcb2ed9547b9e1562953f35",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630072404/rajabets/game/88cec971-7474-4eb1-94eb-e04d4756c96e.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP O",
+        "gameID": "4134e22ef51602a341306df756ee8f2c",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059128/rajabets/game/af576a7b-3aa9-4b3e-9d9d-0b0fcf06780c.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP I",
+        "gameID": "2703c1a1340451d9f9d35904c721f7d6",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1674719872/rajabets/game/1afa632a-1bb1-45ea-aa96-feb2369966ac.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP K",
+        "gameID": "ce84d2072af4db522109e3e349bec9c9",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1701640725/rajabets/game/a5a304c1-5c95-41a1-b07e-a3860d41553c.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP J",
+        "gameID": "bd5be8139f01f6719bdd15b92e005523",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1640618355/rajabets/game/c2c9a540-5d93-4be5-a8c6-29ecfc8e1217.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP L",
+        "gameID": "2d2e7afef9695e9cf82be87a08f28d23",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630056095/rajabets/game/9a1931e0-c8b9-4d77-af52-f2648659f0c6.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP H",
+        "gameID": "fe2e28180d600b1dfc7784324d3df640",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1720621198/rajabets/game/b7ee8763-6fad-4e3f-9103-e30008af1a07.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP E",
+        "gameID": "2c2f06025f65fe745cabd81a3aae8aba",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1634297800/rajabets/game/28730e74-7f2a-4daa-9b1e-cd8a0aa833a7.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP G",
+        "gameID": "40273c03c2a48786cb6111e35f012e6b",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059582/rajabets/game/5e0db8ed-7086-4dee-bb9b-a38b473c4ea5.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP D",
+        "gameID": "d3cc53709c12b63755a2e40bba47f448",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1701640762/rajabets/game/7027e03d-13f2-4524-96dd-d1cea5f9264c.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP F",
+        "gameID": "201a27d2b833951f5d982dc5c313fe74",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1694514298/rajabets/game/6cab5064-4194-4bce-83b3-3fc0d6811447.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP C",
+        "gameID": "68c5eb853ecdfee94cd5a22f3210aacf",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1757063888/rajabets/game/fc9d2264-ac68-447d-ac8e-84389af911d1.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack Silver F",
+        "gameID": "cd2394d2d8ef2160c8b4826233f7b2fb",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630058208/rajabets/game/dff93fc7-7728-4c5f-ab00-16d5eb0ba62c.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack Silver E",
+        "gameID": "0fcd90352f378191e02359a0ab9df5a8",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1697110756/rajabets/game/7ab827e7-ede7-4e70-8b53-645a784ca05f.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP B",
+        "gameID": "446551dd9ae32002824b065e57686463",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630058863/rajabets/game/a6631ffb-38eb-4094-97ad-cb41d30b8d93.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack Silver G",
+        "gameID": "fdc106b08bfc4c4d324cac4fa347bf19",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630072299/rajabets/game/bbee95ca-8bf6-4b0f-9eb5-62e810cc4441.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack VIP A",
+        "gameID": "555681ca33cd74847afbab62a9c446a3",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059012/rajabets/game/f1fad6b7-46a3-49c3-a623-ad249fbe688d.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack Silver D",
+        "gameID": "91cbad4d3ac237e40d477539e5c767fa",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630058162/rajabets/game/a7016b87-60eb-4dbd-a69d-8017600dca9b.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack Silver B",
+        "gameID": "8de1993b371ce298b85584d21e5d2106",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059787/rajabets/game/fb898434-9e6e-4d9b-8edc-4b86b5ab2c1a.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack Silver C",
+        "gameID": "422b5f8f63f54841a0045584237c4eee",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059331/rajabets/game/5a1704ef-a0d2-4583-9c1a-e49230a5a1f4.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack Silver A",
+        "gameID": "faa0c98465e5fe48aefaca3fc885977e",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1674732454/rajabets/game/e04a0bc7-520e-4ff7-ba23-5d05d51093c2.jpg"
+    },
+    {
+        "gameNameEn": "Speed VIP Blackjack M",
+        "gameID": "51636f763710a40d94435d5721b47afb",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059151/rajabets/game/e6334214-507c-48aa-818c-6c2b95fc479b.jpg"
+    },
+    {
+        "gameNameEn": "Speed VIP Blackjack L",
+        "gameID": "41ff316f28958f3939f2886e3d8813f7",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630058860/rajabets/game/cee6473c-6779-4929-86d4-982dcb7bd902.jpg"
+    },
+    {
+        "gameNameEn": "Speed VIP Blackjack I",
+        "gameID": "fd0ce69ba5a8e9fde4a0118e0b9498e8",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630060229/rajabets/game/cdc868e7-483b-4f6f-973c-6ef127fd9eea.jpg"
+    },
+    {
+        "gameNameEn": "Speed VIP Blackjack H",
+        "gameID": "ea5bb4a83394921afb0f26635b331266",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059361/rajabets/game/516b13e5-7f69-4657-a9a9-211374491f7d.jpg"
+    },
+    {
+        "gameNameEn": "Speed VIP Blackjack E",
+        "gameID": "ac5ae4dd6c8b09b3da54aad693345ea5",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1693661182/rajabets/game/ecfdd107-7ffc-4626-8ff4-8a6cbcb4d1cb.jpg"
+    },
+    {
+        "gameNameEn": "Speed VIP Blackjack G",
+        "gameID": "5b28de9903431500b020d6fa6fa84ac4",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1696419097/rajabets/game/18cdfe1f-03c8-469b-8dd0-ac30eb4b2225.jpg"
+    },
+    {
+        "gameNameEn": "Speed VIP Blackjack F",
+        "gameID": "29a0088d6ddc73df59bbd2cadedb3e64",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1662479197/rajabets/game/e3ab1790-fbc6-4b04-837e-d360490f39c1.jpg"
+    },
+    {
+        "gameNameEn": "Speed VIP Blackjack C",
+        "gameID": "fcdeb63512da4f7980a03b3542a21796",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630072586/rajabets/game/fba2a45a-5755-481f-baee-3aed422a198d.jpg"
+    },
+    {
+        "gameNameEn": "Speed VIP Blackjack D",
+        "gameID": "994a06251ad003c0be35b252803f49a5",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1700140518/rajabets/game/a1b87eb2-fb48-442a-ae19-e9f68e7e88dc.jpg"
+    },
+    {
+        "gameNameEn": "Speed VIP Blackjack B",
+        "gameID": "5fdb477013f4d377433e2a3daeac1d28",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1637168364/rajabets/game/f171f055-94b5-491b-b1ae-52107deba325.jpg"
+    },
+    {
+        "gameNameEn": "Speed VIP Blackjack A",
+        "gameID": "fdf05d777a59a24fd546e06cb460980e",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1640618203/rajabets/game/3c172a88-4ae2-4f00-8ba0-097ca84cb438.jpg"
+    },
+    {
+        "gameNameEn": "Speed Blackjack J",
+        "gameID": "5a948565b571fadb2256a7789de597ec",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059083/rajabets/game/09a4a9ae-5411-45e8-9c09-3a70f4b59543.jpg"
+    },
+    {
+        "gameNameEn": "Speed Blackjack H",
+        "gameID": "3a8c810f74a20fc9e8e871af1c3100db",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059549/rajabets/game/d9998178-f1ca-4a27-bf6c-c303d953257d.jpg"
+    },
+    {
+        "gameNameEn": "Speed Blackjack I",
+        "gameID": "0fd44663c3e5db6c9f14b2a6114d5e8d",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1701640456/rajabets/game/5076e5a1-c92a-465b-a5a2-1dcd9bd3c73d.jpg"
+    },
+    {
+        "gameNameEn": "Speed Blackjack G",
+        "gameID": "fb166643bac3b714a7ce524c2fb0eb00",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059398/rajabets/game/792b0be8-d2bb-4938-bad1-a541a7fd582a.jpg"
+    },
+    {
+        "gameNameEn": "Speed Blackjack D",
+        "gameID": "b796189e77ae8a84f4b2e65a6bbe1a15",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1686076777/rajabets/game/6e1203e9-af73-44dd-9090-920b4d9ed6a2.jpg"
+    },
+    {
+        "gameNameEn": "Speed Blackjack M",
+        "gameID": "323c8a2868da01aeae418d247e4f3ee0",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1674720284/rajabets/game/b3ee30aa-b98c-4925-ac64-bab239166b37.jpg"
+    },
+    {
+        "gameNameEn": "Speed Blackjack L",
+        "gameID": "e23e0f97958143d951abc0fecca02ec4",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630058785/rajabets/game/9799cb28-0228-460d-b63c-9e0ba4247fd9.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack Party",
+        "gameID": "d609730e8da3693bd8ac428926747390",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1630059519/rajabets/game/9c856b20-4b1f-426e-b7bc-be7a5fe791ef.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack B",
+        "gameID": "5344ba3dbbd1b3c4b0082fe6212d502c",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1701640869/rajabets/game/5bac7887-35c5-4e1e-a3fe-9e93c90ecd25.jpg"
+    },
+    {
+        "gameNameEn": "Blackjack C",
+        "gameID": "135c1d0063a5a18532314e7f669da0a2",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1640618389/rajabets/game/e9879ea7-785f-4ced-80f8-2a2f96d20b23.jpg"
+    },
+    {
+        "gameNameEn": "Speed Blackjack K",
+        "gameID": "063cf66c2e8b256eb49ba0c5983354e0",
+        "customGameType": 0,
+        "vendorId": 17,
+        "img": "https://res.cloudinary.com/monotech/image/upload/w_500/v1640624250/rajabets/game/2d34ca7b-1a5e-4b10-8e37-d54e0ddaefc3.jpg"
+    }
+    ]
+    }

@@ -1,0 +1,757 @@
+[
+    {
+        "timestamp": "2025-04-25 11:54:41",
+        "status": 200,
+        "typeId": 1,
+        "payload": "{\"language\":0,\"pageNo\":1,\"pageSize\":10,\"random\":\"3cd788053690e8837f8814e581c1f0cd\",\"typeId\":1,\"signature\":\"41DCFBBAEC5FA62335BED8669BFBF471\",\"timestamp\":1745582080}",
+        "response": {
+            "data": {
+                "list": [
+                    {
+                        "issueNumber": "20250425100010714",
+                        "number": "9",
+                        "colour": "green",
+                        "premium": "64099"
+                    },
+                    {
+                        "issueNumber": "20250425100010713",
+                        "number": "1",
+                        "colour": "green",
+                        "premium": "51191"
+                    },
+                    {
+                        "issueNumber": "20250425100010712",
+                        "number": "0",
+                        "colour": "red,violet",
+                        "premium": "57940"
+                    },
+                    {
+                        "issueNumber": "20250425100010711",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "20507"
+                    },
+                    {
+                        "issueNumber": "20250425100010710",
+                        "number": "9",
+                        "colour": "green",
+                        "premium": "47229"
+                    },
+                    {
+                        "issueNumber": "20250425100010709",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "30217"
+                    },
+                    {
+                        "issueNumber": "20250425100010708",
+                        "number": "5",
+                        "colour": "green,violet",
+                        "premium": "75885"
+                    },
+                    {
+                        "issueNumber": "20250425100010707",
+                        "number": "4",
+                        "colour": "red",
+                        "premium": "84494"
+                    },
+                    {
+                        "issueNumber": "20250425100010706",
+                        "number": "6",
+                        "colour": "red",
+                        "premium": "59346"
+                    },
+                    {
+                        "issueNumber": "20250425100010705",
+                        "number": "6",
+                        "colour": "red",
+                        "premium": "55296"
+                    }
+                ],
+                "pageNo": 1,
+                "totalPage": 4569,
+                "totalCount": 45684
+            },
+            "code": 0,
+            "msg": "Succeed",
+            "msgCode": 0,
+            "serviceNowTime": "2025-04-25 17:24:40"
+        },
+        "raw": "{\"data\":{\"list\":[{\"issueNumber\":\"20250425100010714\",\"number\":\"9\",\"colour\":\"green\",\"premium\":\"64099\"},{\"issueNumber\":\"20250425100010713\",\"number\":\"1\",\"colour\":\"green\",\"premium\":\"51191\"},{\"issueNumber\":\"20250425100010712\",\"number\":\"0\",\"colour\":\"red,violet\",\"premium\":\"57940\"},{\"issueNumber\":\"20250425100010711\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"20507\"},{\"issueNumber\":\"20250425100010710\",\"number\":\"9\",\"colour\":\"green\",\"premium\":\"47229\"},{\"issueNumber\":\"20250425100010709\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"30217\"},{\"issueNumber\":\"20250425100010708\",\"number\":\"5\",\"colour\":\"green,violet\",\"premium\":\"75885\"},{\"issueNumber\":\"20250425100010707\",\"number\":\"4\",\"colour\":\"red\",\"premium\":\"84494\"},{\"issueNumber\":\"20250425100010706\",\"number\":\"6\",\"colour\":\"red\",\"premium\":\"59346\"},{\"issueNumber\":\"20250425100010705\",\"number\":\"6\",\"colour\":\"red\",\"premium\":\"55296\"}],\"pageNo\":1,\"totalPage\":4569,\"totalCount\":45684},\"code\":0,\"msg\":\"Succeed\",\"msgCode\":0,\"serviceNowTime\":\"2025-04-25 17:24:40\"}"
+    },
+    {
+        "timestamp": "2025-04-22 06:09:55",
+        "status": 200,
+        "typeId": 1,
+        "payload": "{\"language\":0,\"pageNo\":1,\"pageSize\":10,\"random\":\"2cd0896b1a78cdab3b5e6af769a70caa\",\"typeId\":1,\"signature\":\"BB71192633BEF739180E2B833BEB11CE\",\"timestamp\":1745302194}",
+        "response": {
+            "data": {
+                "list": [
+                    {
+                        "issueNumber": "20250422100010369",
+                        "number": "1",
+                        "colour": "green",
+                        "premium": "52761"
+                    },
+                    {
+                        "issueNumber": "20250422100010368",
+                        "number": "6",
+                        "colour": "red",
+                        "premium": "39496"
+                    },
+                    {
+                        "issueNumber": "20250422100010367",
+                        "number": "9",
+                        "colour": "green",
+                        "premium": "83769"
+                    },
+                    {
+                        "issueNumber": "20250422100010366",
+                        "number": "3",
+                        "colour": "green",
+                        "premium": "91473"
+                    },
+                    {
+                        "issueNumber": "20250422100010365",
+                        "number": "1",
+                        "colour": "green",
+                        "premium": "11881"
+                    },
+                    {
+                        "issueNumber": "20250422100010364",
+                        "number": "9",
+                        "colour": "green",
+                        "premium": "58749"
+                    },
+                    {
+                        "issueNumber": "20250422100010363",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "68717"
+                    },
+                    {
+                        "issueNumber": "20250422100010362",
+                        "number": "9",
+                        "colour": "green",
+                        "premium": "55819"
+                    },
+                    {
+                        "issueNumber": "20250422100010361",
+                        "number": "6",
+                        "colour": "red",
+                        "premium": "86206"
+                    },
+                    {
+                        "issueNumber": "20250422100010360",
+                        "number": "0",
+                        "colour": "red,violet",
+                        "premium": "58560"
+                    }
+                ],
+                "pageNo": 1,
+                "totalPage": 4534,
+                "totalCount": 45339
+            },
+            "code": 0,
+            "msg": "Succeed",
+            "msgCode": 0,
+            "serviceNowTime": "2025-04-22 11:39:54"
+        },
+        "raw": "{\"data\":{\"list\":[{\"issueNumber\":\"20250422100010369\",\"number\":\"1\",\"colour\":\"green\",\"premium\":\"52761\"},{\"issueNumber\":\"20250422100010368\",\"number\":\"6\",\"colour\":\"red\",\"premium\":\"39496\"},{\"issueNumber\":\"20250422100010367\",\"number\":\"9\",\"colour\":\"green\",\"premium\":\"83769\"},{\"issueNumber\":\"20250422100010366\",\"number\":\"3\",\"colour\":\"green\",\"premium\":\"91473\"},{\"issueNumber\":\"20250422100010365\",\"number\":\"1\",\"colour\":\"green\",\"premium\":\"11881\"},{\"issueNumber\":\"20250422100010364\",\"number\":\"9\",\"colour\":\"green\",\"premium\":\"58749\"},{\"issueNumber\":\"20250422100010363\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"68717\"},{\"issueNumber\":\"20250422100010362\",\"number\":\"9\",\"colour\":\"green\",\"premium\":\"55819\"},{\"issueNumber\":\"20250422100010361\",\"number\":\"6\",\"colour\":\"red\",\"premium\":\"86206\"},{\"issueNumber\":\"20250422100010360\",\"number\":\"0\",\"colour\":\"red,violet\",\"premium\":\"58560\"}],\"pageNo\":1,\"totalPage\":4534,\"totalCount\":45339},\"code\":0,\"msg\":\"Succeed\",\"msgCode\":0,\"serviceNowTime\":\"2025-04-22 11:39:54\"}"
+    },
+    {
+        "timestamp": "2025-04-22 06:04:14",
+        "status": 200,
+        "typeId": 1,
+        "payload": "{\"language\":0,\"pageNo\":1,\"pageSize\":10,\"random\":\"3280bb4536e955acc53da2e5e170bf94\",\"typeId\":1,\"signature\":\"2BDB6E6E07EFD6FCDB0E147B99C57268\",\"timestamp\":1745301854}",
+        "response": {
+            "data": {
+                "list": [
+                    {
+                        "issueNumber": "20250422100010364",
+                        "number": "9",
+                        "colour": "green",
+                        "premium": "58749"
+                    },
+                    {
+                        "issueNumber": "20250422100010363",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "68717"
+                    },
+                    {
+                        "issueNumber": "20250422100010362",
+                        "number": "9",
+                        "colour": "green",
+                        "premium": "55819"
+                    },
+                    {
+                        "issueNumber": "20250422100010361",
+                        "number": "6",
+                        "colour": "red",
+                        "premium": "86206"
+                    },
+                    {
+                        "issueNumber": "20250422100010360",
+                        "number": "0",
+                        "colour": "red,violet",
+                        "premium": "58560"
+                    },
+                    {
+                        "issueNumber": "20250422100010359",
+                        "number": "4",
+                        "colour": "red",
+                        "premium": "45244"
+                    },
+                    {
+                        "issueNumber": "20250422100010358",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "87027"
+                    },
+                    {
+                        "issueNumber": "20250422100010357",
+                        "number": "2",
+                        "colour": "red",
+                        "premium": "48802"
+                    },
+                    {
+                        "issueNumber": "20250422100010356",
+                        "number": "5",
+                        "colour": "green,violet",
+                        "premium": "68085"
+                    },
+                    {
+                        "issueNumber": "20250422100010355",
+                        "number": "8",
+                        "colour": "red",
+                        "premium": "79938"
+                    }
+                ],
+                "pageNo": 1,
+                "totalPage": 4534,
+                "totalCount": 45334
+            },
+            "code": 0,
+            "msg": "Succeed",
+            "msgCode": 0,
+            "serviceNowTime": "2025-04-22 11:34:14"
+        },
+        "raw": "{\"data\":{\"list\":[{\"issueNumber\":\"20250422100010364\",\"number\":\"9\",\"colour\":\"green\",\"premium\":\"58749\"},{\"issueNumber\":\"20250422100010363\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"68717\"},{\"issueNumber\":\"20250422100010362\",\"number\":\"9\",\"colour\":\"green\",\"premium\":\"55819\"},{\"issueNumber\":\"20250422100010361\",\"number\":\"6\",\"colour\":\"red\",\"premium\":\"86206\"},{\"issueNumber\":\"20250422100010360\",\"number\":\"0\",\"colour\":\"red,violet\",\"premium\":\"58560\"},{\"issueNumber\":\"20250422100010359\",\"number\":\"4\",\"colour\":\"red\",\"premium\":\"45244\"},{\"issueNumber\":\"20250422100010358\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"87027\"},{\"issueNumber\":\"20250422100010357\",\"number\":\"2\",\"colour\":\"red\",\"premium\":\"48802\"},{\"issueNumber\":\"20250422100010356\",\"number\":\"5\",\"colour\":\"green,violet\",\"premium\":\"68085\"},{\"issueNumber\":\"20250422100010355\",\"number\":\"8\",\"colour\":\"red\",\"premium\":\"79938\"}],\"pageNo\":1,\"totalPage\":4534,\"totalCount\":45334},\"code\":0,\"msg\":\"Succeed\",\"msgCode\":0,\"serviceNowTime\":\"2025-04-22 11:34:14\"}"
+    },
+    {
+        "timestamp": "2025-04-22 06:04:11",
+        "status": 200,
+        "typeId": 1,
+        "payload": "{\"language\":0,\"pageNo\":1,\"pageSize\":10,\"random\":\"36805d19507353575208a30f180eba4e\",\"typeId\":1,\"signature\":\"F519E7C1C69EC5BF93026DD0E45D86DC\",\"timestamp\":1745301851}",
+        "response": {
+            "data": {
+                "list": [
+                    {
+                        "issueNumber": "20250422100010364",
+                        "number": "9",
+                        "colour": "green",
+                        "premium": "58749"
+                    },
+                    {
+                        "issueNumber": "20250422100010363",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "68717"
+                    },
+                    {
+                        "issueNumber": "20250422100010362",
+                        "number": "9",
+                        "colour": "green",
+                        "premium": "55819"
+                    },
+                    {
+                        "issueNumber": "20250422100010361",
+                        "number": "6",
+                        "colour": "red",
+                        "premium": "86206"
+                    },
+                    {
+                        "issueNumber": "20250422100010360",
+                        "number": "0",
+                        "colour": "red,violet",
+                        "premium": "58560"
+                    },
+                    {
+                        "issueNumber": "20250422100010359",
+                        "number": "4",
+                        "colour": "red",
+                        "premium": "45244"
+                    },
+                    {
+                        "issueNumber": "20250422100010358",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "87027"
+                    },
+                    {
+                        "issueNumber": "20250422100010357",
+                        "number": "2",
+                        "colour": "red",
+                        "premium": "48802"
+                    },
+                    {
+                        "issueNumber": "20250422100010356",
+                        "number": "5",
+                        "colour": "green,violet",
+                        "premium": "68085"
+                    },
+                    {
+                        "issueNumber": "20250422100010355",
+                        "number": "8",
+                        "colour": "red",
+                        "premium": "79938"
+                    }
+                ],
+                "pageNo": 1,
+                "totalPage": 4534,
+                "totalCount": 45334
+            },
+            "code": 0,
+            "msg": "Succeed",
+            "msgCode": 0,
+            "serviceNowTime": "2025-04-22 11:34:11"
+        },
+        "raw": "{\"data\":{\"list\":[{\"issueNumber\":\"20250422100010364\",\"number\":\"9\",\"colour\":\"green\",\"premium\":\"58749\"},{\"issueNumber\":\"20250422100010363\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"68717\"},{\"issueNumber\":\"20250422100010362\",\"number\":\"9\",\"colour\":\"green\",\"premium\":\"55819\"},{\"issueNumber\":\"20250422100010361\",\"number\":\"6\",\"colour\":\"red\",\"premium\":\"86206\"},{\"issueNumber\":\"20250422100010360\",\"number\":\"0\",\"colour\":\"red,violet\",\"premium\":\"58560\"},{\"issueNumber\":\"20250422100010359\",\"number\":\"4\",\"colour\":\"red\",\"premium\":\"45244\"},{\"issueNumber\":\"20250422100010358\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"87027\"},{\"issueNumber\":\"20250422100010357\",\"number\":\"2\",\"colour\":\"red\",\"premium\":\"48802\"},{\"issueNumber\":\"20250422100010356\",\"number\":\"5\",\"colour\":\"green,violet\",\"premium\":\"68085\"},{\"issueNumber\":\"20250422100010355\",\"number\":\"8\",\"colour\":\"red\",\"premium\":\"79938\"}],\"pageNo\":1,\"totalPage\":4534,\"totalCount\":45334},\"code\":0,\"msg\":\"Succeed\",\"msgCode\":0,\"serviceNowTime\":\"2025-04-22 11:34:11\"}"
+    },
+    {
+        "timestamp": "2025-04-22 06:03:27",
+        "status": 200,
+        "typeId": 1,
+        "payload": "{\"language\":0,\"pageNo\":1,\"pageSize\":10,\"random\":\"97b9351a3163a0323e50ff7661429ff5\",\"typeId\":1,\"signature\":\"44F45C77192A1DB7BA5F06FBF8EC6FFD\",\"timestamp\":1745301806}",
+        "response": {
+            "data": {
+                "list": [
+                    {
+                        "issueNumber": "20250422100010363",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "68717"
+                    },
+                    {
+                        "issueNumber": "20250422100010362",
+                        "number": "9",
+                        "colour": "green",
+                        "premium": "55819"
+                    },
+                    {
+                        "issueNumber": "20250422100010361",
+                        "number": "6",
+                        "colour": "red",
+                        "premium": "86206"
+                    },
+                    {
+                        "issueNumber": "20250422100010360",
+                        "number": "0",
+                        "colour": "red,violet",
+                        "premium": "58560"
+                    },
+                    {
+                        "issueNumber": "20250422100010359",
+                        "number": "4",
+                        "colour": "red",
+                        "premium": "45244"
+                    },
+                    {
+                        "issueNumber": "20250422100010358",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "87027"
+                    },
+                    {
+                        "issueNumber": "20250422100010357",
+                        "number": "2",
+                        "colour": "red",
+                        "premium": "48802"
+                    },
+                    {
+                        "issueNumber": "20250422100010356",
+                        "number": "5",
+                        "colour": "green,violet",
+                        "premium": "68085"
+                    },
+                    {
+                        "issueNumber": "20250422100010355",
+                        "number": "8",
+                        "colour": "red",
+                        "premium": "79938"
+                    },
+                    {
+                        "issueNumber": "20250422100010354",
+                        "number": "5",
+                        "colour": "green,violet",
+                        "premium": "16355"
+                    }
+                ],
+                "pageNo": 1,
+                "totalPage": 4534,
+                "totalCount": 45333
+            },
+            "code": 0,
+            "msg": "Succeed",
+            "msgCode": 0,
+            "serviceNowTime": "2025-04-22 11:33:27"
+        },
+        "raw": "{\"data\":{\"list\":[{\"issueNumber\":\"20250422100010363\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"68717\"},{\"issueNumber\":\"20250422100010362\",\"number\":\"9\",\"colour\":\"green\",\"premium\":\"55819\"},{\"issueNumber\":\"20250422100010361\",\"number\":\"6\",\"colour\":\"red\",\"premium\":\"86206\"},{\"issueNumber\":\"20250422100010360\",\"number\":\"0\",\"colour\":\"red,violet\",\"premium\":\"58560\"},{\"issueNumber\":\"20250422100010359\",\"number\":\"4\",\"colour\":\"red\",\"premium\":\"45244\"},{\"issueNumber\":\"20250422100010358\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"87027\"},{\"issueNumber\":\"20250422100010357\",\"number\":\"2\",\"colour\":\"red\",\"premium\":\"48802\"},{\"issueNumber\":\"20250422100010356\",\"number\":\"5\",\"colour\":\"green,violet\",\"premium\":\"68085\"},{\"issueNumber\":\"20250422100010355\",\"number\":\"8\",\"colour\":\"red\",\"premium\":\"79938\"},{\"issueNumber\":\"20250422100010354\",\"number\":\"5\",\"colour\":\"green,violet\",\"premium\":\"16355\"}],\"pageNo\":1,\"totalPage\":4534,\"totalCount\":45333},\"code\":0,\"msg\":\"Succeed\",\"msgCode\":0,\"serviceNowTime\":\"2025-04-22 11:33:27\"}"
+    },
+    {
+        "timestamp": "2025-04-22 06:03:11",
+        "status": 200,
+        "typeId": 3,
+        "payload": "{\"language\":0,\"pageNo\":1,\"pageSize\":10,\"random\":\"c4e73560f586d49869426f035fc35c3e\",\"typeId\":3,\"signature\":\"7DBB34B1591C7B7941E127E7DE810EDE\",\"timestamp\":1745301790}",
+        "response": {
+            "data": {
+                "list": [
+                    {
+                        "issueNumber": "20250422100030072",
+                        "number": "6",
+                        "colour": "red",
+                        "premium": "77786"
+                    },
+                    {
+                        "issueNumber": "20250422100030071",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "74097"
+                    },
+                    {
+                        "issueNumber": "20250422100030070",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "77997"
+                    },
+                    {
+                        "issueNumber": "20250422100030069",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "26207"
+                    },
+                    {
+                        "issueNumber": "20250422100030068",
+                        "number": "4",
+                        "colour": "red",
+                        "premium": "74704"
+                    },
+                    {
+                        "issueNumber": "20250422100030067",
+                        "number": "8",
+                        "colour": "red",
+                        "premium": "29588"
+                    },
+                    {
+                        "issueNumber": "20250422100030066",
+                        "number": "8",
+                        "colour": "red",
+                        "premium": "65258"
+                    },
+                    {
+                        "issueNumber": "20250422100030065",
+                        "number": "0",
+                        "colour": "red,violet",
+                        "premium": "39940"
+                    },
+                    {
+                        "issueNumber": "20250422100030064",
+                        "number": "1",
+                        "colour": "green",
+                        "premium": "75001"
+                    },
+                    {
+                        "issueNumber": "20250422100030063",
+                        "number": "9",
+                        "colour": "green",
+                        "premium": "14689"
+                    }
+                ],
+                "pageNo": 1,
+                "totalPage": 907,
+                "totalCount": 9066
+            },
+            "code": 0,
+            "msg": "Succeed",
+            "msgCode": 0,
+            "serviceNowTime": "2025-04-22 11:33:11"
+        },
+        "raw": "{\"data\":{\"list\":[{\"issueNumber\":\"20250422100030072\",\"number\":\"6\",\"colour\":\"red\",\"premium\":\"77786\"},{\"issueNumber\":\"20250422100030071\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"74097\"},{\"issueNumber\":\"20250422100030070\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"77997\"},{\"issueNumber\":\"20250422100030069\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"26207\"},{\"issueNumber\":\"20250422100030068\",\"number\":\"4\",\"colour\":\"red\",\"premium\":\"74704\"},{\"issueNumber\":\"20250422100030067\",\"number\":\"8\",\"colour\":\"red\",\"premium\":\"29588\"},{\"issueNumber\":\"20250422100030066\",\"number\":\"8\",\"colour\":\"red\",\"premium\":\"65258\"},{\"issueNumber\":\"20250422100030065\",\"number\":\"0\",\"colour\":\"red,violet\",\"premium\":\"39940\"},{\"issueNumber\":\"20250422100030064\",\"number\":\"1\",\"colour\":\"green\",\"premium\":\"75001\"},{\"issueNumber\":\"20250422100030063\",\"number\":\"9\",\"colour\":\"green\",\"premium\":\"14689\"}],\"pageNo\":1,\"totalPage\":907,\"totalCount\":9066},\"code\":0,\"msg\":\"Succeed\",\"msgCode\":0,\"serviceNowTime\":\"2025-04-22 11:33:11\"}"
+    },
+    {
+        "timestamp": "2025-04-22 06:02:47",
+        "status": 200,
+        "typeId": 3,
+        "payload": "{\"language\":0,\"pageNo\":1,\"pageSize\":10,\"random\":\"78f199d0ad66041490b0eed49453b703\",\"typeId\":3,\"signature\":\"2DDECA72FDBB70BB409240613E997439\",\"timestamp\":1745301766}",
+        "response": {
+            "data": {
+                "list": [
+                    {
+                        "issueNumber": "20250422100030072",
+                        "number": "6",
+                        "colour": "red",
+                        "premium": "77786"
+                    },
+                    {
+                        "issueNumber": "20250422100030071",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "74097"
+                    },
+                    {
+                        "issueNumber": "20250422100030070",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "77997"
+                    },
+                    {
+                        "issueNumber": "20250422100030069",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "26207"
+                    },
+                    {
+                        "issueNumber": "20250422100030068",
+                        "number": "4",
+                        "colour": "red",
+                        "premium": "74704"
+                    },
+                    {
+                        "issueNumber": "20250422100030067",
+                        "number": "8",
+                        "colour": "red",
+                        "premium": "29588"
+                    },
+                    {
+                        "issueNumber": "20250422100030066",
+                        "number": "8",
+                        "colour": "red",
+                        "premium": "65258"
+                    },
+                    {
+                        "issueNumber": "20250422100030065",
+                        "number": "0",
+                        "colour": "red,violet",
+                        "premium": "39940"
+                    },
+                    {
+                        "issueNumber": "20250422100030064",
+                        "number": "1",
+                        "colour": "green",
+                        "premium": "75001"
+                    },
+                    {
+                        "issueNumber": "20250422100030063",
+                        "number": "9",
+                        "colour": "green",
+                        "premium": "14689"
+                    }
+                ],
+                "pageNo": 1,
+                "totalPage": 907,
+                "totalCount": 9066
+            },
+            "code": 0,
+            "msg": "Succeed",
+            "msgCode": 0,
+            "serviceNowTime": "2025-04-22 11:32:47"
+        },
+        "raw": "{\"data\":{\"list\":[{\"issueNumber\":\"20250422100030072\",\"number\":\"6\",\"colour\":\"red\",\"premium\":\"77786\"},{\"issueNumber\":\"20250422100030071\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"74097\"},{\"issueNumber\":\"20250422100030070\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"77997\"},{\"issueNumber\":\"20250422100030069\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"26207\"},{\"issueNumber\":\"20250422100030068\",\"number\":\"4\",\"colour\":\"red\",\"premium\":\"74704\"},{\"issueNumber\":\"20250422100030067\",\"number\":\"8\",\"colour\":\"red\",\"premium\":\"29588\"},{\"issueNumber\":\"20250422100030066\",\"number\":\"8\",\"colour\":\"red\",\"premium\":\"65258\"},{\"issueNumber\":\"20250422100030065\",\"number\":\"0\",\"colour\":\"red,violet\",\"premium\":\"39940\"},{\"issueNumber\":\"20250422100030064\",\"number\":\"1\",\"colour\":\"green\",\"premium\":\"75001\"},{\"issueNumber\":\"20250422100030063\",\"number\":\"9\",\"colour\":\"green\",\"premium\":\"14689\"}],\"pageNo\":1,\"totalPage\":907,\"totalCount\":9066},\"code\":0,\"msg\":\"Succeed\",\"msgCode\":0,\"serviceNowTime\":\"2025-04-22 11:32:47\"}"
+    },
+    {
+        "timestamp": "2025-04-22 05:58:06",
+        "status": 200,
+        "typeId": 3,
+        "payload": "{\"language\":0,\"pageNo\":1,\"pageSize\":10,\"random\":\"65c46a37ebdaecdb15064e0bcd490dd0\",\"typeId\":3,\"signature\":\"E26A086B78348D1341F720A03672FCB4\",\"timestamp\":1745301485}",
+        "response": {
+            "data": {
+                "list": [
+                    {
+                        "issueNumber": "20250422100030071",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "74097"
+                    },
+                    {
+                        "issueNumber": "20250422100030070",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "77997"
+                    },
+                    {
+                        "issueNumber": "20250422100030069",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "26207"
+                    },
+                    {
+                        "issueNumber": "20250422100030068",
+                        "number": "4",
+                        "colour": "red",
+                        "premium": "74704"
+                    },
+                    {
+                        "issueNumber": "20250422100030067",
+                        "number": "8",
+                        "colour": "red",
+                        "premium": "29588"
+                    },
+                    {
+                        "issueNumber": "20250422100030066",
+                        "number": "8",
+                        "colour": "red",
+                        "premium": "65258"
+                    },
+                    {
+                        "issueNumber": "20250422100030065",
+                        "number": "0",
+                        "colour": "red,violet",
+                        "premium": "39940"
+                    },
+                    {
+                        "issueNumber": "20250422100030064",
+                        "number": "1",
+                        "colour": "green",
+                        "premium": "75001"
+                    },
+                    {
+                        "issueNumber": "20250422100030063",
+                        "number": "9",
+                        "colour": "green",
+                        "premium": "14689"
+                    },
+                    {
+                        "issueNumber": "20250422100030062",
+                        "number": "1",
+                        "colour": "green",
+                        "premium": "51771"
+                    }
+                ],
+                "pageNo": 1,
+                "totalPage": 907,
+                "totalCount": 9065
+            },
+            "code": 0,
+            "msg": "Succeed",
+            "msgCode": 0,
+            "serviceNowTime": "2025-04-22 11:28:06"
+        },
+        "raw": "{\"data\":{\"list\":[{\"issueNumber\":\"20250422100030071\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"74097\"},{\"issueNumber\":\"20250422100030070\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"77997\"},{\"issueNumber\":\"20250422100030069\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"26207\"},{\"issueNumber\":\"20250422100030068\",\"number\":\"4\",\"colour\":\"red\",\"premium\":\"74704\"},{\"issueNumber\":\"20250422100030067\",\"number\":\"8\",\"colour\":\"red\",\"premium\":\"29588\"},{\"issueNumber\":\"20250422100030066\",\"number\":\"8\",\"colour\":\"red\",\"premium\":\"65258\"},{\"issueNumber\":\"20250422100030065\",\"number\":\"0\",\"colour\":\"red,violet\",\"premium\":\"39940\"},{\"issueNumber\":\"20250422100030064\",\"number\":\"1\",\"colour\":\"green\",\"premium\":\"75001\"},{\"issueNumber\":\"20250422100030063\",\"number\":\"9\",\"colour\":\"green\",\"premium\":\"14689\"},{\"issueNumber\":\"20250422100030062\",\"number\":\"1\",\"colour\":\"green\",\"premium\":\"51771\"}],\"pageNo\":1,\"totalPage\":907,\"totalCount\":9065},\"code\":0,\"msg\":\"Succeed\",\"msgCode\":0,\"serviceNowTime\":\"2025-04-22 11:28:06\"}"
+    },
+    {
+        "timestamp": "2025-04-22 05:53:51",
+        "status": 200,
+        "typeId": 3,
+        "payload": "{\"language\":0,\"pageNo\":1,\"pageSize\":10,\"random\":\"04a251f958c0a25336126a82d9bcc4a3\",\"typeId\":3,\"signature\":\"F3085EFF034873F307AB315988E61D8B\",\"timestamp\":1745301230}",
+        "response": {
+            "data": {
+                "list": [
+                    {
+                        "issueNumber": "20250422100030070",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "77997"
+                    },
+                    {
+                        "issueNumber": "20250422100030069",
+                        "number": "7",
+                        "colour": "green",
+                        "premium": "26207"
+                    },
+                    {
+                        "issueNumber": "20250422100030068",
+                        "number": "4",
+                        "colour": "red",
+                        "premium": "74704"
+                    },
+                    {
+                        "issueNumber": "20250422100030067",
+                        "number": "8",
+                        "colour": "red",
+                        "premium": "29588"
+                    },
+                    {
+                        "issueNumber": "20250422100030066",
+                        "number": "8",
+                        "colour": "red",
+                        "premium": "65258"
+                    },
+                    {
+                        "issueNumber": "20250422100030065",
+                        "number": "0",
+                        "colour": "red,violet",
+                        "premium": "39940"
+                    },
+                    {
+                        "issueNumber": "20250422100030064",
+                        "number": "1",
+                        "colour": "green",
+                        "premium": "75001"
+                    },
+                    {
+                        "issueNumber": "20250422100030063",
+                        "number": "9",
+                        "colour": "green",
+                        "premium": "14689"
+                    },
+                    {
+                        "issueNumber": "20250422100030062",
+                        "number": "1",
+                        "colour": "green",
+                        "premium": "51771"
+                    },
+                    {
+                        "issueNumber": "20250422100030061",
+                        "number": "0",
+                        "colour": "red,violet",
+                        "premium": "29930"
+                    }
+                ],
+                "pageNo": 1,
+                "totalPage": 907,
+                "totalCount": 9064
+            },
+            "code": 0,
+            "msg": "Succeed",
+            "msgCode": 0,
+            "serviceNowTime": "2025-04-22 11:23:51"
+        },
+        "raw": "{\"data\":{\"list\":[{\"issueNumber\":\"20250422100030070\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"77997\"},{\"issueNumber\":\"20250422100030069\",\"number\":\"7\",\"colour\":\"green\",\"premium\":\"26207\"},{\"issueNumber\":\"20250422100030068\",\"number\":\"4\",\"colour\":\"red\",\"premium\":\"74704\"},{\"issueNumber\":\"20250422100030067\",\"number\":\"8\",\"colour\":\"red\",\"premium\":\"29588\"},{\"issueNumber\":\"20250422100030066\",\"number\":\"8\",\"colour\":\"red\",\"premium\":\"65258\"},{\"issueNumber\":\"20250422100030065\",\"number\":\"0\",\"colour\":\"red,violet\",\"premium\":\"39940\"},{\"issueNumber\":\"20250422100030064\",\"number\":\"1\",\"colour\":\"green\",\"premium\":\"75001\"},{\"issueNumber\":\"20250422100030063\",\"number\":\"9\",\"colour\":\"green\",\"premium\":\"14689\"},{\"issueNumber\":\"20250422100030062\",\"number\":\"1\",\"colour\":\"green\",\"premium\":\"51771\"},{\"issueNumber\":\"20250422100030061\",\"number\":\"0\",\"colour\":\"red,violet\",\"premium\":\"29930\"}],\"pageNo\":1,\"totalPage\":907,\"totalCount\":9064},\"code\":0,\"msg\":\"Succeed\",\"msgCode\":0,\"serviceNowTime\":\"2025-04-22 11:23:51\"}"
+    },
+    {
+        "timestamp": "2025-04-22 05:50:34",
+        "status": 0,
+        "typeId": 3,
+        "payload": "{\"language\":0,\"pageNo\":1,\"pageSize\":10,\"random\":\"1c123a09167ff1c706c765a062c051d5\",\"typeId\":3,\"signature\":\"4955483F23EAAE3B28253A35D0516B92\",\"timestamp\":1745301034}",
+        "response": "URL rejected: Malformed input to a URL function"
+    },
+    {
+        "timestamp": "2025-04-22 05:50:24",
+        "status": 0,
+        "typeId": 3,
+        "payload": "{\"language\":0,\"pageNo\":1,\"pageSize\":10,\"random\":\"a872d60fa0ba0d6a2bb931d559a8225e\",\"typeId\":3,\"signature\":\"FB82CD866FC534910CCB2AC4B542700D\",\"timestamp\":1745301024}",
+        "response": "URL rejected: Malformed input to a URL function"
+    },
+    {
+        "timestamp": "2025-04-22 05:48:37",
+        "status": 0,
+        "typeId": 3,
+        "payload": "{\"language\":0,\"pageNo\":1,\"pageSize\":10,\"random\":\"98724ca3e7050e428f6602ba3af484c8\",\"typeId\":3,\"signature\":\"68E32CB8AC3A4E92DC815033CF4AF052\",\"timestamp\":1745300917}",
+        "response": null
+    },
+    {
+        "timestamp": "2025-04-22 05:48:16",
+        "status": 0,
+        "typeId": 3,
+        "payload": "{\"language\":0,\"pageNo\":1,\"pageSize\":10,\"random\":\"a404d2702037e42da517e4fc31c07a57\",\"typeId\":3,\"signature\":\"E458A83A16E2345FA5D32B9DBDA125A2\",\"timestamp\":1745300896}",
+        "response": null
+    },
+    {
+        "timestamp": "2025-04-22 05:47:59",
+        "status": 0,
+        "typeId": 3,
+        "payload": "{\"language\":0,\"pageNo\":1,\"pageSize\":10,\"random\":\"5914c01948b72ce7a61880ca0f472c7b\",\"typeId\":3,\"signature\":\"BAECB19BAD5C6C3F13AC14C339E3B930\",\"timestamp\":1745300879}",
+        "response": null
+    }
+]

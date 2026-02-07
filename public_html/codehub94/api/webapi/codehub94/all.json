@@ -1,0 +1,181 @@
+{
+    "gameCustomTypeLists": [],
+    "gameLists": [
+        {
+            "gameNameEn": "2j",
+            "gameID": "c44dc56b33f2f501d5e0ce24abbe1345",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=2j"
+        },
+        {
+            "gameNameEn": "3oks-row",
+            "gameID": "c1299ac40cd31435588f42f0f4503380",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=3oks-row"
+        },
+        {
+            "gameNameEn": "5g",
+            "gameID": "180978cd3048c0f29e3368c3c3c1dbc7",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=5g"
+        },
+        {
+            "gameNameEn": "bng-asia",
+            "gameID": "18d2ca49820914e3f1b3ca88610a16d6",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=bng-asia"
+        },
+        {
+            "gameNameEn": "btgaming",
+            "gameID": "8b85d249bf18b497c6d2c711206c7e9d",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=btgaming"
+        },
+        {
+            "gameNameEn": "cq9",
+            "gameID": "630a841b4cf75a38e2e657040f785e63",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=cq9"
+        },
+        {
+            "gameNameEn": "evo",
+            "gameID": "7b44393101abad7ac31e21fc1bdb3d56",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=evo"
+        },
+        {
+            "gameNameEn": "expanse",
+            "gameID": "cac9570277a8aadd301ec4dbef27905e",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=expanse"
+        },
+        {
+            "gameNameEn": "fachaigaming",
+            "gameID": "46816b28e0fbcf25d3e01c389510af70",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=fachaigaming"
+        },
+        {
+            "gameNameEn": "fastspin",
+            "gameID": "fe5bb309f6849942cf788d72d9b80bc5",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=fastspin"
+        },
+        {
+            "gameNameEn": "galaxsys",
+            "gameID": "cfe88c2cd101a134c8d9c00d5e916a60",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=galaxsys"
+        },
+        {
+            "gameNameEn": "hacksaw-asia",
+            "gameID": "1891",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=hacksaw-asia"
+        },
+        {
+            "gameNameEn": "inout",
+            "gameID": "66d311ff6cf531e40b61c483dd34c5c9",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=inout"
+        },
+        {
+            "gameNameEn": "jdb",
+            "gameID": "9341a18d096ad901ef77338998f29098",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=jdb"
+        },
+        {
+            "gameNameEn": "jili",
+            "gameID": "6a7e156ceec5c581cd6b9251854fe504",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=jili"
+        },
+        {
+            "gameNameEn": "microgaming",
+            "gameID": "33fce45f64bc4cf9619a0a990a414bb8",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=microgaming"
+        },
+        {
+            "gameNameEn": "mini",
+            "gameID": "df196b6df7af6da164fdca33adfebb95",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=mini"
+        },
+       
+        {
+            "gameNameEn": "pgsoft",
+            "gameID": "1189baca156e1bbbecc3b26651a63565",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=pgsoft"
+        },
+        {
+            "gameNameEn": "rg",
+            "gameID": "85bf997d15dbf6cef1d73401d5cdbd8b",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=rg"
+        },
+        {
+            "gameNameEn": "sabasports",
+            "gameID": "08ced9dd788aed11ff3c7f387ae0f063",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=sabasports"
+        },
+        {
+            "gameNameEn": "spribe",
+            "gameID": "a04d1f3eb8ccec8a4823bdf18e3f0e84",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=spribe"
+        },
+        {
+            "gameNameEn": "turbogames-asia",
+            "gameID": "2d66114ff4a5575d2f6534f48d4f76e6",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=turbogames-asia"
+        },
+        {
+            "gameNameEn": "turbogames-world",
+            "gameID": "2d66114ff4a5575d2f6534f48d4f76e6",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=turbogames-world"
+        },
+        {
+            "gameNameEn": "v8",
+            "gameID": "ed8f32f7545713e569bad0c57132b2a9",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=v8"
+        },
+        {
+            "gameNameEn": "wonwon",
+            "gameID": "e1e9b9cf9a3bfdfd48ca71d2b2f2af81",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://placehold.co/330x440/f5cc2c/000?text=wonwon"
+        }
+    ]
+}

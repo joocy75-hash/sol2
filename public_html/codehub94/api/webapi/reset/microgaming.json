@@ -1,0 +1,145 @@
+{
+    "gameCustomTypeLists": [],
+    "gameLists": [
+        {
+            "gameNameEn": "Aztec Triple Riches Power Combo",
+            "gameID": "33fce45f64bc4cf9619a0a990a414bb8",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_wildfireWins.png"
+        },
+        {
+            "gameNameEn": "Gold Infinity",
+            "gameID": "7b034f007297975a3a0c17654abd3067",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_10000Wishes.png"
+        },
+        {
+            "gameNameEn": "Mammoth Triple Riches",
+            "gameID": "90b0d3ee68eff4c40e655a4111c156b5",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_777RoyalWheel.png"
+        },
+        {
+            "gameNameEn": "Hades Lost Treasures",
+            "gameID": "8c5874cfc46c093c3f662bcee65a7173",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_25000Talons.png"
+        },
+        {
+            "gameNameEn": "Book of Wolves",
+            "gameID": "5032c2878ba3a8548ce7764521401c53",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_4DiamondBlues.png"
+        },
+        {
+            "gameNameEn": "Sienna Steele",
+            "gameID": "d8d4c4574921210121c4899e45718cf6",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_777MegaDeluxe.png"
+        },
+        {
+            "gameNameEn": "Candy Rush Wilds 2",
+            "gameID": "128ad77a36e65eda0182d9f87a837454",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_cashNRichesMegaways.png"
+        },
+        {
+            "gameNameEn": "Almighty Athena Empire",
+            "gameID": "e7b3aeba1ecd7976c494cd433c20c6e2",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_hyperGold.png"
+        },
+        {
+            "gameNameEn": "Treasure Stacks",
+            "gameID": "6f88f00e8a2e840315663813d75645d4",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_auroraWilds.png"
+        },
+        {
+            "gameNameEn": "3 Laughing Lions Power Combo",
+            "gameID": "6ad579a6a69bb7b11bf61058b1c8e9a6",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_megaMoneyMultiplier.png"
+        },
+        {
+            "gameNameEn": "Crazy Bob Bonanza",
+            "gameID": "3688da0f7f533b8d9b266db97676b7a1",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_fireForge.png"
+        },
+        {
+            "gameNameEn": "Lucky Twins PowerClusters",
+            "gameID": "930c5186d0ee26a46331a09542b7c78c",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_bookOfKingArthur.png"
+        },
+        {
+            "gameNameEn": "Mighty Panda",
+            "gameID": "a371eb859fdc03660fb289af804d0759",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_maskOfAmun.png"
+        },
+        {
+            "gameNameEn": "Massive Gold",
+            "gameID": "ce1e1a7163d5343502b9fd8e0b14420f",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_777Surge.png"
+        },
+        {
+            "gameNameEn": "Shark Platinum",
+            "gameID": "f74babecd48f203130ab2162957c8b8e",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_almightyZeusEmpire.png"
+        },
+        {
+            "gameNameEn": "Dr Watts Up",
+            "gameID": "2878ce1a5eda3b9bb7a3318cb8600197",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_luckyTwinsJackpot.png"
+        },
+        {
+            "gameNameEn": "Lucky Little Dragons",
+            "gameID": "c7f81d017424ac5efd86e9f354c3fc9e",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_breakDaBankAgain.png"
+        },
+        {
+            "gameNameEn": "Queen of Cairo",
+            "gameID": "75e86c64e4fe5a4dbbf8390c2a44e67a",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_luckyTwinsWilds.png"
+        },
+        {
+            "gameNameEn": "108 Heroes Water Margin",
+            "gameID": "d693c33ddb634da6e5f3d53d35e4f07c",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_9potsOfGold.png"
+        },
+        {
+            "gameNameEn": "Almighty Zeus Wilds",
+            "gameID": "10f0cb371de1096e988ed79be19a23a0",
+            "customGameType": 0,
+        "vendorId": 37,
+            "img": "https://ossimg.diuacting.com/DiuWin/gamelogo/MG/SMG_15Tridents.png"
+        }
+    ]
+}

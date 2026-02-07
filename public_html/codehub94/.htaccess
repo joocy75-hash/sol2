@@ -1,0 +1,49 @@
+# Enable rewrite engine
+RewriteEngine On
+
+# ✅ Force HTTPS (secure redirect)
+RewriteCond %{HTTPS} !=on
+RewriteRule ^/?(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+# ✅ Allow Authorization headers to pass (important for APIs)
+SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1
+
+# ✅ Hide directory listing
+IndexIgnore *
+
+# ✅ Custom 404 handler
+ErrorDocument 404 /index.php
+
+# ✅ Remove "index.php" from URL
+RewriteCond %{THE_REQUEST} /index\.php[\ ?/] [NC]
+RewriteRule ^index\.php$ / [R=301,L]
+
+# ✅ Redirect www to non-www (optional, remove if you want www)
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^ https://%1%{REQUEST_URI} [R=301,L]
+
+# ✅ Hide .php extension from URLs
+# Redirect /file.php → /file
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+RewriteRule ^ %1 [R=301,L,NC]
+
+# Internally map /file → /file.php
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^ %{REQUEST_URI}.php [L]
+
+# ✅ Optional: Maintenance mode (enable when needed)
+# RewriteCond %{REQUEST_URI} !/Under-Maintainance.jpg$ [NC]
+# RewriteRule ^(.*)$ /Under-Maintainance.jpg [R=302,L]
+
+# ✅ PHP version handler (auto from cPanel)
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php81 .php .php8 .phtml
+</IfModule>
+
+# ✅ Security headers (optional but recommended)
+<IfModule mod_headers.c>
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+</IfModule>

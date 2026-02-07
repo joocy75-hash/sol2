@@ -1,0 +1,272 @@
+{
+    "gameCustomTypeLists": [],
+    "gameLists": [
+        {
+            "gameNameEn": "Osiris Curse",
+            "gameID": "85bf997d15dbf6cef1d73401d5cdbd8b",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/155005.png"
+        },
+        {
+            "gameNameEn": "The Last Gladiator",
+            "gameID": "f273236b6ebc9f65a2d57863e002a612",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/155006.png"
+        },
+        {
+            "gameNameEn": "Moonstruck Monster 1000",
+            "gameID": "e40e31d9a8af008515ee2fc9570a0edb",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/155004.png"
+        },
+        {
+            "gameNameEn": "Ninja Slash 1000",
+            "gameID": "42a7310950000d302eab905b4d40cc96",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150004.png"
+        },
+        {
+            "gameNameEn": "Gold Strike Jackpot",
+            "gameID": "1840445408a422c1cf1abedf2dd60c7f",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150003.png"
+        },
+        {
+            "gameNameEn": "Molten Phoenix",
+            "gameID": "0a9caf2469185efe1c0f6cceca36f015",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150001.png"
+        },
+        {
+            "gameNameEn": "Froggy Venom",
+            "gameID": "80861d4f01478ce6c070aa218f4c717a",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150000.png"
+        },
+        {
+            "gameNameEn": "Furious Rhino",
+            "gameID": "b802ce0ba307a2eb4e7f2a5616a07c55",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/155000.png"
+        },
+        {
+            "gameNameEn": "Mega Shark Madness",
+            "gameID": "e29ec697bb05da0d48235fd69e6bb141",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/155003.png"
+        },
+        
+        {
+            "gameNameEn": "Caveboy Conquest",
+            "gameID": "09ddc69f3ff624a400357a399256f04a",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/155002.png"
+        },
+        {
+            "gameNameEn": "Jester Poker",
+            "gameID": "d79b3af020daae0bb53078d2e1d9f920",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/155001.png"
+        },
+        {
+            "gameNameEn": "Journey to The Myth",
+            "gameID": "6a3d158552b027fec7592a15f99b761c",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150013.png"
+        },
+        {
+            "gameNameEn": "Sizzling Hotpot",
+            "gameID": "2dbd41a9d8aa3defdf0fe1f7155eae4e",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "http://gth.sm-rg1212.com/thumbs/web/150015.png"
+        },
+        {
+            "gameNameEn": "Piggy Tycoon",
+            "gameID": "25cd31c3a163a957c9cdbb34b68c7f7c",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150005.png"
+        },
+        {
+            "gameNameEn": "Ways of Dragon",
+            "gameID": "5c49403220876ef66a4ef332a46b3622",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/155007.png"
+        },
+        {
+            "gameNameEn": "Splash Frenzy",
+            "gameID": "10351bbd33e8321e53351c7dfea9a14e",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "http://gth.sm-rg1212.com/thumbs/web/150016.png"
+        },
+        {
+            "gameNameEn": "Railway Rumble",
+            "gameID": "534e3ec0852c9b9dce54fb7e9240f49a",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "http://gth.sm-rg1212.com/thumbs/web/150018.png"
+        },
+        {
+            "gameNameEn": "Celestial Creatures",
+            "gameID": "13847c0a2f61d6082902dad15597e790",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150011.png"
+        },
+        {
+            "gameNameEn": "Bazaar Rush",
+            "gameID": "471c7b0e5e3bd0bdfed5b5851e8a7592",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "http://gth.sm-rg1212.com/thumbs/web/150019.png"
+        },
+        {
+            "gameNameEn": "Rise of Lotto",
+            "gameID": "5633f4a8e8b2a3b6e2e4b6f2a8c4e6d8",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150012.png"
+        },
+        {
+            "gameNameEn": "Lotto Bounty",
+            "gameID": "7b2e4c9f3a1d6b8e2c4f7a9b3e1d6c8",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/155008.png"
+        },
+        {
+            "gameNameEn": "Dim Sum Twins",
+            "gameID": "9c4f7b2e1d6a3b8e2c4f7a9b3e1d6c8",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150023.png"
+        },
+        {
+            "gameNameEn": "Koi Beauty",
+            "gameID": "a2b4c6d8e0f1a2b3c4d5e6f7a8b9c0d",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150006.png"
+        },
+        {
+            "gameNameEn": "Dragon Boat Uprising",
+            "gameID": "b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150021.png"
+        },
+        {
+            "gameNameEn": "Wealthy Kiddo",
+            "gameID": "c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150020.png"
+        },
+        {
+            "gameNameEn": "Soccer Glory",
+            "gameID": "d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150014.png"
+        },
+        {
+            "gameNameEn": "Indian Mascot",
+            "gameID": "e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150027.png"
+        },
+        {
+            "gameNameEn": "Tiki Valley",
+            "gameID": "f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150028.png"
+        },
+        {
+            "gameNameEn": "Egyptian Meow",
+            "gameID": "a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150017.png"
+        },
+        {
+            "gameNameEn": "Rodeo Maiden",
+            "gameID": "b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150007.png"
+        },
+        {
+            "gameNameEn": "Scarlet Princess",
+            "gameID": "c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150008.png"
+        },
+        {
+            "gameNameEn": "Treasure Miner",
+            "gameID": "d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150009.png"
+        },
+        {
+            "gameNameEn": "Vegas Frenzy",
+            "gameID": "e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150010.png"
+        },
+        {
+            "gameNameEn": "Supreme Olympus",
+            "gameID": "f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150022.png"
+        },
+        {
+            "gameNameEn": "Vampiric Treasures",
+            "gameID": "a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150024.png"
+        },
+        {
+            "gameNameEn": "Lotto Frenzy",
+            "gameID": "b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "http://gth.sm-rg1212.com/thumbs/web/150025.png"
+        },
+        {
+            "gameNameEn": "Peacock Maiden",
+            "gameID": "c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "http://gth.sm-rg1212.com/thumbs/web/150029.png"
+        },
+        {
+            "gameNameEn": "Orchard Village",
+            "gameID": "d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a",
+            "customGameType": 0,
+            "vendorCode": 86,
+            "img": "https://gth.sm-rg1212.com/thumbs/web/150030.png"
+        }
+    ]
+}

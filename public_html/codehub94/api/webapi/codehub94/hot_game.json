@@ -1,0 +1,32 @@
+{
+    "gameCustomTypeLists": [],
+    "gameLists": [
+        
+         {
+            "gameNameEn": "Aviator",
+            "gameID": "a04d1f3eb8ccec8a4823bdf18e3f0e84",
+            "img": "https://ossimg.forpicstore777.top/rajalottery/gamelogo/TB_Chess/800_20250421220338955.png",
+            "vendorId": 23,
+            "vendorCode": "SPRIBE",
+            "imgUrl2": "",
+            "customGameType": 0
+        },
+             {
+        "gameNameEn": "Aviator X",
+        "gameID": "2f3c40d2af8692bf52be1e9b1e487b16",
+        "customGameType": "1",
+        "vendorCode": 86,
+        "img": "https://providers.gamblly.com//assets/image/game_image/static.mini.game/icon/game1/2/aviator.webp"
+    },
+ {
+            "gameNameEn": "Aviator",
+            "gameID": "cb66d23b547498132598589af324d558",
+            "img": "https://providers.gamblly.com//assets/image/game_image/luckmedia.link/iog_aviafly/thumb_3_4_custom.webp",
+            "vendorId": 23,
+            "vendorCode": "Inout",
+            "imgUrl2": "",
+            "customGameType": 0
+        }
+
+    ]
+}

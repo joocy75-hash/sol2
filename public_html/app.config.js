@@ -1,0 +1,2 @@
+window.CONFIG = Object.freeze({ "VITE_API_URL": "https://Sol-0203.com/codehub94", "VITE_BASE_LANGUAGE": "en", "VITE_BASE_AREACODE": "", "VITE_BASE_DOLLARSIGN": "", "VITE_BASE_LANGUAGES": "en", "VITE_BASE_PROJECTNAME": "ar058", "VITE_BASE_CURRENCY": "", "VITE_BASE_UPPERORLOWER": "0", "VITE_HOME": "public3Home", "VITE_MAINCOLOR": "public3Style6", "BASE_URL": "/", "MODE": "production", "DEV": true, "PROD": false });
+
