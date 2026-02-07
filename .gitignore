@@ -1,19 +1,1 @@
-# Archive
-*.zip
 .DS_Store
-
-# Sensitive (credentials - do not push)
-public_html/codehub94/conn.php
-public_html/codehub94/admin/config.php
-public_html/pay/config.php
-public_html/upload_database.php
-public_html/SQL.sql
-
-# Backdoor/malware (security - do not push)
-public_html/nayakaphalitansa_*.php
-public_html/niyamitakelasa_*.php
-public_html/codehub94/admin/detavannunirvahisi*.php
-public_html/codehub94/admin/itticina_geluvu*.php
-public_html/codehub94/admin/maruhondisi_gellalu*.php
-public_html/codehub94/admin/ottu_gellaluhogiondu*.php
-public_html/codehub94/admin/mottavannupadeyiri*.php
